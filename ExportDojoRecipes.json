@@ -2908,6 +2908,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanAutoCannonDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/LavanAutoCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanBeamWeaponABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierA",
             "price": 15000,
@@ -2980,6 +3005,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanBeamWeaponDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3058,6 +3108,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanBlasterDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanBlasterShotgunABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierA",
             "price": 15000,
@@ -3130,6 +3205,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanBlasterShotgunDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3208,6 +3308,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanElectricTetherDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/ElectricTether/LavanElectricTetherCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanGatlingLaserABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierA",
             "price": 15000,
@@ -3280,6 +3405,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanGatlingLaserDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3358,6 +3508,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanIceSniperDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/IceSniper/LavanIceSniperCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanPulseLaserABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierA",
             "price": 15000,
@@ -3430,6 +3605,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanPulseLaserDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3508,6 +3708,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Lavan/LavanShrapnelShotgunDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/LavanShrapnelShotgunTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarAutoCannonABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierA",
             "price": 15000,
@@ -3580,6 +3805,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarAutoCannonDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3658,6 +3908,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarBeamWeaponDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarBlasterABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierA",
             "price": 15000,
@@ -3730,6 +4005,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarBlasterDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3808,6 +4108,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarBlasterShotgunDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarElectricTetherABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierA",
             "price": 15000,
@@ -3880,6 +4205,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarElectricTetherDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -3958,6 +4308,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarGatlingLaserDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarIceSniperABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierA",
             "price": 15000,
@@ -4030,6 +4405,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarIceSniperDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -4108,6 +4508,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarPulseLaserDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/VidarPulseLaserTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarShrapnelShotgunABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierA",
             "price": 15000,
@@ -4180,6 +4605,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Vidar/VidarShrapnelShotgunDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -4258,6 +4708,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiAutoCannonDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/ZektiAutoCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiBeamWeaponABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierA",
             "price": 15000,
@@ -4330,6 +4805,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiBeamWeaponDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -4408,6 +4908,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiBlasterDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiBlasterShotgunABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierA",
             "price": 15000,
@@ -4480,6 +5005,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiBlasterShotgunDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -4558,6 +5108,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiElectricTetherDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/ElectricTether/ZektiElectricTetherCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiGatlingLaserABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierA",
             "price": 15000,
@@ -4630,6 +5205,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiGatlingLaserDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -4708,6 +5308,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiIceSniperDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/IceSniper/ZektiIceSniperCannonTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiPulseLaserABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierA",
             "price": 15000,
@@ -4783,6 +5408,31 @@
                 }
             ]
         },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiPulseLaserDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
+                }
+            ]
+        },
         "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiShrapnelShotgunABlueprint": {
             "resultType": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierA",
             "price": 15000,
@@ -4855,6 +5505,31 @@
                 {
                     "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
                     "ItemCount": 600
+                }
+            ]
+        },
+        "/Lotus/Types/Recipes/Railjack/Weapons/Zekti/ZektiShrapnelShotgunDBlueprint": {
+            "resultType": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierD",
+            "price": 15000,
+            "time": 7200,
+            "skipTimePrice": 20,
+            "replicatePrice": 15000,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+                    "ItemCount": 6
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+                    "ItemCount": 50
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+                    "ItemCount": 2500
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+                    "ItemCount": 750
                 }
             ]
         },
@@ -82098,6 +82773,64 @@
                 {
                     "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
                     "ItemCount": 20
+                }
+            ],
+            "capacityCost": 3,
+            "requiredInVault": true
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/DojoGroupedTeleporterDestRecipe": {
+            "resultType": "/Lotus/Objects/Tenno/Props/DojoGroupedTeleporterDestDeco",
+            "name": "/Lotus/Language/DojoDecosTenno/DojoGroupedTeleporterDestName",
+            "description": "/Lotus/Language/DojoDecosTenno/DojoGroupedTeleporterDestDescription",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/DojoTeleporter.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 40000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 15000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+                    "ItemCount": 3500
+                }
+            ],
+            "capacityCost": 3,
+            "requiredInVault": true
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/DojoGroupedTeleporterRecipe": {
+            "resultType": "/Lotus/Objects/Tenno/Props/DojoGroupedTeleporterDeco",
+            "name": "/Lotus/Language/DojoDecosTenno/DojoGroupedTeleporterName",
+            "description": "/Lotus/Language/DojoDecosTenno/DojoGroupedTeleporterDescription",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/DojoTeleporter.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 40000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 15000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+                    "ItemCount": 3500
                 }
             ],
             "capacityCost": 3,
