@@ -2215,8 +2215,8 @@
         "description": "/Lotus/Language/Suits/HydroidDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Warframes/Hydroid.png",
         "health": 270,
-        "shield": 365,
-        "armor": 240,
+        "shield": 140,
+        "armor": 465,
         "stamina": 3,
         "power": 140,
         "codexSecret": false,
@@ -2268,8 +2268,8 @@
         "description": "/Lotus/Language/Primes/HydroidPrimeDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/HydroidPrime.png",
         "health": 270,
-        "shield": 550,
-        "armor": 290,
+        "shield": 190,
+        "armor": 650,
         "stamina": 3,
         "power": 175,
         "codexSecret": false,
@@ -4672,6 +4672,56 @@
         "platinumCost": 325,
         "introducedAt": 1676469600
     },
+    "/Lotus/Powersuits/Geode/CitrinePrime": {
+        "name": "/Lotus/Language/Primes/CitrinePrimeName",
+        "parentName": "/Lotus/Powersuits/Geode/GeodeBaseSuit",
+        "description": "/Lotus/Language/Primes/CitrinePrimeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/CitrinePrime.png",
+        "health": 400,
+        "shield": 270,
+        "armor": 325,
+        "stamina": 3,
+        "power": 150,
+        "codexSecret": false,
+        "masteryReq": 0,
+        "sprintSpeed": 1,
+        "passiveDescription": "/Lotus/Language/Suits/GeodePassiveAbility",
+        "abilities": [
+            {
+                "uniqueName": "/Lotus/Powersuits/Geode/Abilities/GeodeShardsAbility",
+                "name": "/Lotus/Language/Suits/GeodeShardsAbilityName",
+                "description": "/Lotus/Language/Suits/GeodeShardsAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/CitrineBleedingShards.png",
+                "energyRequiredToActivate": 25
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/Geode/Abilities/GeodeShellAbility",
+                "name": "/Lotus/Language/Suits/GeodeShellAbilityName",
+                "description": "/Lotus/Language/Suits/GeodeShellAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/CitrineProtectiveShell.png",
+                "energyRequiredToActivate": 50
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/Geode/Abilities/GeodeCrystalAbility",
+                "name": "/Lotus/Language/Suits/GeodeCrystalAbilityName",
+                "description": "/Lotus/Language/Suits/GeodeCrystalAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/CitrineChromaticGeode.png",
+                "energyRequiredToActivate": 75
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/Geode/Abilities/GeodeGrowthsAbility",
+                "name": "/Lotus/Language/Suits/GeodeGrowthsAbilityName",
+                "description": "/Lotus/Language/Suits/GeodeGrowthsAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/CitrineCrystalGrowths.png",
+                "energyRequiredToActivate": 100
+            }
+        ],
+        "productCategory": "Suits",
+        "variantType": "VT_PRIME",
+        "nemesisUpgradeTag": "InnateMagDamage",
+        "platinumCost": 325,
+        "excludeFromMarket": true
+    },
     "/Lotus/Powersuits/Garuda/GarudaPrime": {
         "name": "/Lotus/Language/Primes/GarudaPrimeName",
         "parentName": "/Lotus/Powersuits/Garuda/GarudaBaseSuit",
@@ -5358,6 +5408,55 @@
         "nemesisUpgradeTag": "InnateHeatDamage",
         "platinumCost": 225,
         "introducedAt": 1351177200
+    },
+    "/Lotus/Powersuits/Duelist/Duelist": {
+        "name": "/Lotus/Language/Iceblade/DuelistSuitName",
+        "parentName": "/Lotus/Powersuits/Duelist/DuelistBaseSuit",
+        "description": "/Lotus/Language/Iceblade/DuelistSuitDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Warframes/Narin.png",
+        "health": 270,
+        "shield": 550,
+        "armor": 165,
+        "stamina": 3,
+        "power": 200,
+        "codexSecret": false,
+        "masteryReq": 0,
+        "sprintSpeed": 1.1,
+        "passiveDescription": "/Lotus/Language/Iceblade/DuelistSuitPassiveDesc",
+        "abilities": [
+            {
+                "uniqueName": "/Lotus/Powersuits/Duelist/Abilities/DuelistThrustAbility",
+                "name": "/Lotus/Language/Iceblade/DuelistAbilityThrustName",
+                "description": "/Lotus/Language/Iceblade/DuelistAbilityThrustDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/NarinThrust.png",
+                "energyRequiredToActivate": 25
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/Duelist/Abilities/DuelistRiposteAbility",
+                "name": "/Lotus/Language/Iceblade/DuelistAbilityRiposteName",
+                "description": "/Lotus/Language/Iceblade/DuelistAbilityRiposteDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/NarinRiposte.png",
+                "energyRequiredToActivate": 50
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/Duelist/Abilities/DuelistLeapAbility",
+                "name": "/Lotus/Language/Iceblade/DuelistAbilityLeapName",
+                "description": "/Lotus/Language/Iceblade/DuelistAbilityLeapDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/NarinLeap.png",
+                "energyRequiredToActivate": 75
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/Duelist/Abilities/DuelistBladeDanceAbility",
+                "name": "/Lotus/Language/Iceblade/DuelistAbilityBladedanceName",
+                "description": "/Lotus/Language/Iceblade/DuelistAbilityBladedanceDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/NarinBladeDance.png",
+                "energyRequiredToActivate": 25
+            }
+        ],
+        "productCategory": "Suits",
+        "variantType": "VT_NORMAL",
+        "nemesisUpgradeTag": "InnateFreezeDamage",
+        "platinumCost": 370
     },
     "/Lotus/Powersuits/Dragon/Dragon": {
         "name": "/Lotus/Language/Suits/ChromaName",
@@ -6392,7 +6491,7 @@
                 "name": "/Lotus/Language/Suits/SoundquakeAbilityName",
                 "description": "/Lotus/Language/Suits/SoundquakeAbilityDesc",
                 "icon": "/Lotus/Interface/Icons/Abilities/BansheeSoundQuake.png",
-                "energyRequiredToActivate": 25,
+                "energyRequiredToActivate": 75,
                 "energyConsumptionOverTime": 25
             }
         ],
@@ -6447,7 +6546,7 @@
                 "name": "/Lotus/Language/Suits/SoundquakeAbilityName",
                 "description": "/Lotus/Language/Suits/SoundquakeAbilityDesc",
                 "icon": "/Lotus/Interface/Icons/Abilities/BansheeSoundQuake.png",
-                "energyRequiredToActivate": 25,
+                "energyRequiredToActivate": 75,
                 "energyConsumptionOverTime": 25
             }
         ],

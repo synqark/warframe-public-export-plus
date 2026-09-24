@@ -2526,6 +2526,96 @@
         "platinumCost": 1,
         "excludeFromMarket": true
     },
+    "/Lotus/Types/StoreItems/Packages/2026Bundles/2026Q3Battlekit": {
+        "name": "/Lotus/Language/Bundles/2026Q3BattlekitName",
+        "description": "/Lotus/Language/Bundles/2026Q3BattlekitDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/2026Q3BattleKitMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Nightwave/GlaxionNightwaveMod",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorA",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorC",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorL",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/CreditBooster3DayStoreItem",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/ResourceAmount3DayStoreItem",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/AffinityBooster3DayStoreItem",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 1,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/StoreItems/Packages/2026Bundles/2026Q3BattlekitPSAsia": {
+        "name": "/Lotus/Language/Bundles/2026Q3BattlekitPSAsiaName",
+        "description": "/Lotus/Language/Bundles/2026Q3BattlekitDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/2026Q3BattleKitPSAsiaMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Nightwave/GlaxionNightwaveMod",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorA",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorC",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorL",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/CreditBooster3DayStoreItem",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/ResourceAmount3DayStoreItem",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/AffinityBooster3DayStoreItem",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 1,
+        "excludeFromMarket": true,
+        "excludedPlatforms": [
+            "CP_WINDOWS",
+            "CP_XBONE",
+            "CP_SWITCH",
+            "CP_XSX",
+            "CP_IOS",
+            "CP_ANDROID"
+        ]
+    },
     "/Lotus/Types/StoreItems/Packages/2026Bundles/FollieSupporterPack": {
         "name": "/Lotus/Language/Bundles/FollieSupPackName",
         "description": "/Lotus/Language/Bundles/FollieSupPackDesc",
@@ -2552,6 +2642,20 @@
         ],
         "bundledPlatinum": 425,
         "platinumBundlePair": "/Lotus/Types/StoreItems/Packages/DeluxeBundles/GaussGrendelDeluxeIISkinBundle",
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/StoreItems/Packages/2026Bundles/IcebladeNarinSupporterPack": {
+        "name": "/Lotus/Language/Bundles/IcebladeNarinSupPackName",
+        "description": "/Lotus/Language/Bundles/IcebladeNarinSupPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/NarinWFPackMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/WarframeBundles/NarinItemsBundle",
+                "purchaseQuantity": 1
+            }
+        ],
+        "bundledPlatinum": 325,
+        "platinumBundlePair": "/Lotus/Types/StoreItems/Packages/WarframeBundles/NarinItemsBundle",
         "excludeFromMarket": true
     },
     "/Lotus/Types/StoreItems/Packages/2026Bundles/JS2CompleteSupporterPack": {
@@ -3466,6 +3570,62 @@
         "platinumCost": 65,
         "excludeFromMarket": true
     },
+    "/Lotus/Types/StoreItems/Packages/BansheeDeluxe2SentinelBundle": {
+        "name": "/Lotus/Language/Bundles/BansheeDeluxe2SentinelBundleName",
+        "description": "/Lotus/Language/Bundles/BansheeDeluxe2SentinelBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Sentinels/BansheeDeluxe2SentinelBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/BansheeDlxSentSkin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/BansheeDlxSentMask",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/BansheeDlxSentWings",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/BansheeDlxSentTail",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 100
+    },
+    "/Lotus/Types/StoreItems/Packages/BansheeDeluxe2SkinBundle": {
+        "name": "/Lotus/Language/Bundles/BansheeDeluxe2SkinBundleName",
+        "description": "/Lotus/Language/Bundles/BansheeDeluxe2SkinBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/WarframeBundles/BansheeDeluxe2Bundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Decree/BansheeDeluxeBSkin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/BansheeDlxSentSkin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/BansheeDlxSentMask",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/BansheeDlxSentWings",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/BansheeDlxSentTail",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/BansheeDeluxeGlyph",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 245
+    },
     "/Lotus/Types/StoreItems/Packages/BansheeDeluxeSkinBundle": {
         "name": "/Lotus/Language/Items/BansheeDeluxeBundleName",
         "description": "/Lotus/Language/Items/BansheeDeluxeBundleDesc",
@@ -4218,6 +4378,34 @@
             },
             {
                 "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageCommunityFollie",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 75
+    },
+    "/Lotus/Types/StoreItems/Packages/CommunityGlyphsBundleVI": {
+        "name": "/Lotus/Language/Bundles/CommunityGlyphBundleVIName",
+        "description": "/Lotus/Language/Bundles/CommunityGlyphBundleVIDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/AvatarPacks/CommunityGlyphsBundleVI.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageCommunityCitrine",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageCommunityFrost",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageCommunityNarin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageCommunityOctavia",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageCommunitySevagoth",
                 "purchaseQuantity": 1
             }
         ],
@@ -6171,6 +6359,30 @@
             }
         ],
         "platinumCost": 225
+    },
+    "/Lotus/Types/StoreItems/Packages/DeluxeBundles/QorvexDeluxeSkinBundle": {
+        "name": "/Lotus/Language/Bundles/QorvexDeluxeSkinBundleName",
+        "description": "/Lotus/Language/Bundles/QorvexDeluxeSkinBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/WarframeBundles/QorvexDeluxeSkinBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/ConcreteFrame/QorvexDeluxeSkin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/ConcreteFrame/QorvexDeluxeArchGunSkin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Scarves/QorvexDeluxeSyandana",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Effects/QorvexDeluxeEphemera",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 340
     },
     "/Lotus/Types/StoreItems/Packages/DeluxeBundles/RevenantDeluxeSkinBundle": {
         "name": "/Lotus/Language/Bundles/RevenantDeluxeBundleName",
@@ -17800,6 +18012,26 @@
             }
         ]
     },
+    "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNavicPrimeSentAccessories": {
+        "name": "/Lotus/Language/PrimePacks/MPVHeimtPrimeSentinelName",
+        "description": "/Lotus/Language/PrimePacks/MPVHeimtPrimeSentinelDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/PrimeVault/NautilusPrimeAccessories.png",
+        "excludeFromCodex": true,
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/NautilusPrimeSentinelMask",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/NautilusPrimeSentinelTail",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/NautilusPrimeSentinelWings",
+                "purchaseQuantity": 1
+            }
+        ]
+    },
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNecraloidBundle": {
         "name": "/Lotus/Language/PrimeStore/MPVNecraloidBundleName",
         "description": "/Lotus/Language/Sigils/TwitchNecraloidSigilDesc",
@@ -19031,6 +19263,100 @@
             },
             {
                 "typeName": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/MPVSinglePackFusionBundle",
+                "purchaseQuantity": 1
+            }
+        ]
+    },
+    "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSevagothHydroidPrimeDualPack": {
+        "name": "/Lotus/Language/PrimePacks/MPVSevagothSinglePackName",
+        "description": "/Lotus/Language/PrimePacks/MPVSevagothSinglePackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Powersuits/Wraith/SevagothPrime",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeBright",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeDark",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/PrimeSevagothHaloCrown",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNavicPrimeSentAccessories",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Powersuits/Pirate/HydroidPrime",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageHydroidPrimeBright",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageHydroidPrimeDark",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSpritsailPrimeArmorSet",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeDangleEMeleeDangle",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/Melee/Swords/PrimeNamiSkyla/PrimeNamiSkyla",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/MPVDualPackFusionBundle",
+                "purchaseQuantity": 1
+            }
+        ]
+    },
+    "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSevagothPrimeSinglePack": {
+        "name": "/Lotus/Language/PrimePacks/MPVSevagothHydroidDualPackName",
+        "description": "/Lotus/Language/PrimePacks/MPVSevagothHydroidDualPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Powersuits/Wraith/SevagothPrime",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeBright",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeDark",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/PrimeSevagothHaloCrown",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNavicPrimeSentAccessories",
                 "purchaseQuantity": 1
             }
         ]
@@ -22105,6 +22431,27 @@
             }
         ],
         "platinumCost": 200
+    },
+    "/Lotus/Types/StoreItems/Packages/OpulaArmourBundle": {
+        "name": "/Lotus/Language/Bundles/OpulaArmourBundleName",
+        "description": "/Lotus/Language/Bundles/OpulaArmourBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Armour/OpulaArmourBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorA",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorC",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/Opula/OpulaArmorL",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 100,
+        "excludeFromMarket": true
     },
     "/Lotus/Types/StoreItems/Packages/OraxiaArmourBundle": {
         "name": "/Lotus/Language/Bundles/OraxiaArmourBundleName",
@@ -27793,6 +28140,48 @@
             "CP_ANDROID"
         ]
     },
+    "/Lotus/Types/StoreItems/Packages/TennoGenBundleIceBladeA": {
+        "name": "/Lotus/Language/Bundles/TennoGenIceBladeBundleAName",
+        "description": "/Lotus/Language/Bundles/TennoGenBundleGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/TennoGen/TennoGenBundleIceBlade1.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Scarves/SWReliquiaSyandana",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/SWVermisSignaCrown",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/SWGothicaSignaCrown",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 185,
+        "excludedPlatforms": [
+            "CP_WINDOWS"
+        ]
+    },
+    "/Lotus/Types/StoreItems/Packages/TennoGenBundleIceBladeB": {
+        "name": "/Lotus/Language/Bundles/TennoGenIceBladeBundleBName",
+        "description": "/Lotus/Language/Bundles/TennoGenBundleGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/TennoGen/TennoGenBundleIceBlade2.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Choir/SWCovenJadeSkin",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Geode/SWCitrineHeliotropiaHelmet",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 220,
+        "excludedPlatforms": [
+            "CP_WINDOWS"
+        ]
+    },
     "/Lotus/Types/StoreItems/Packages/TennoGenBundleIsleweaverA": {
         "name": "/Lotus/Language/Bundles/TennoGenIsleweaverBundleAName",
         "description": "/Lotus/Language/Bundles/TennoGenBundleGenericDesc",
@@ -32331,6 +32720,51 @@
         ],
         "giftingBonus": "/Lotus/StoreItems/Types/Items/ShipDecos/KoumeiShrineDeco",
         "platinumCost": 800
+    },
+    "/Lotus/Types/StoreItems/Packages/WarframeBundles/NarinItemsBundle": {
+        "name": "/Lotus/Language/Bundles/IcebladeNarinSupPackName",
+        "description": "/Lotus/Language/Bundles/IcebladeNarinSupPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/WarframeBundles/NarinItemsBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Powersuits/Duelist/Duelist",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Duelist/DuelistAltHelmet",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/Bows/DuelistBow/DuelistBow",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/Pistols/DuelistPistols/DuelistPistols",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Scarves/DuelistSyandana",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/Emotes/DuelistEmote",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Effects/DuelistEphemera",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/DuelistCrown",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Props/LisetPropIceblade",
+                "purchaseQuantity": 1
+            }
+        ],
+        "platinumCost": 990,
+        "platinumBundlePair": "/Lotus/Types/StoreItems/Packages/2026Bundles/IcebladeNarinSupporterPack"
     },
     "/Lotus/Types/StoreItems/Packages/WarframeBundles/NokkoItemsBundle": {
         "name": "/Lotus/Language/Bundles/NokkoSupPackName",

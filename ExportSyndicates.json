@@ -1352,6 +1352,13 @@
                 "rankUpReward": true
             },
             {
+                "storeItem": "/Lotus/StoreItems/Powersuits/Frost/IceShieldAugmentTwoCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Frost/AvalancheAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
@@ -1556,6 +1563,13 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Bard/BardCharmAugmentCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Powersuits/Oraxia/BroodAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
                 "requiredLevel": 5,
@@ -7712,6 +7726,13 @@
                 "rankUpReward": true
             },
             {
+                "storeItem": "/Lotus/StoreItems/Powersuits/Oraxia/BroodAugmentCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Fairy/FairyDustAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
@@ -10293,6 +10314,13 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Trinity/BlessingAugmentCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Powersuits/DemonFrame/DemonFrameFireBallAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
                 "requiredLevel": 5,
@@ -42886,6 +42914,13 @@
                 "rankUpReward": true
             },
             {
+                "storeItem": "/Lotus/StoreItems/Powersuits/Devourer/DevourerPassiveAugmentCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Priest/PriestCondemnAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
@@ -45917,6 +45952,13 @@
                 "rankUpReward": true
             },
             {
+                "storeItem": "/Lotus/StoreItems/Powersuits/Frost/IceShieldAugmentTwoCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Frost/AvalancheAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
@@ -45974,6 +46016,13 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Devourer/DevourerRegurgitateAugmentCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Powersuits/Devourer/DevourerPassiveAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
                 "requiredLevel": 5,
@@ -46233,6 +46282,13 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Powersuits/Saryn/WeaponPoisonAugmentCard",
+                "standingCost": 25000,
+                "creditsCost": 0,
+                "requiredLevel": 5,
+                "rankUpReward": true
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Powersuits/DemonFrame/DemonFrameFireBallAugmentCard",
                 "standingCost": 25000,
                 "creditsCost": 0,
                 "requiredLevel": 5,

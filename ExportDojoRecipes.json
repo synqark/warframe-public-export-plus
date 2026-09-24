@@ -34752,6 +34752,1798 @@
             ],
             "capacityCost": 1
         },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPileAOptimized": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPileAOptimized",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPileAOptimizedName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPileAOptimizedDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPileAOptimized.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPileBOptimized": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPileBOptimized",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPileBOptimizedName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPileBOptimizedDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPileBOptimized.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPileCOptimized": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPileCOptimized",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPileCOptimizedName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPileCOptimizedDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPileCOptimized.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPileDOptimized": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPileDOptimized",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPileDOptimizedName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPileDOptimizedDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPileDOptimized.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPoseA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPoseA",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPoseAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPoseADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPoseA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPoseB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPoseB",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPoseBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPoseBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPoseB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/BonesPoseC": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/BonesPoseC",
+            "name": "/Lotus/Language/DojoDecosGrineer/BonesPoseCName",
+            "description": "/Lotus/Language/DojoDecosGrineer/BonesPoseCDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/BonesPoseC.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnAntennaA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnAntennaA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnAntennaAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnAntennaADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnAntennaA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnArtilleryShellA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnArtilleryShellA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnArtilleryShellAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnArtilleryShellADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnArtilleryShellA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnArtilleryShellAStackATarpedA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnArtilleryShellAStackATarpedA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnArtilleryShellAStackATarpedAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnArtilleryShellAStackATarpedADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnArtilleryShellAStackATarpedA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnArtilleryShellATarpedA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnArtilleryShellATarpedA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnArtilleryShellATarpedAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnArtilleryShellATarpedADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnArtilleryShellATarpedA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnBallisticShieldA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnBallisticShieldA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnBallisticShieldAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnBallisticShieldADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnBallisticShieldA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnBatteryA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnBatteryA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnBatteryAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnBatteryADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnBatteryA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnCommTowerA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnCommTowerA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnCommTowerAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnCommTowerADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnCommTowerA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnDropshipDestroyedA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnDropshipDestroyedA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipDestroyedAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipDestroyedADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnDropshipDestroyedA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnDropshipDestroyedB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnDropshipDestroyedB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipDestroyedBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipDestroyedBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnDropshipDestroyedB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnDropshipThrusterA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnDropshipThrusterA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipThrusterAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipThrusterADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnDropshipThrusterA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnDropshipThrusterB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnDropshipThrusterB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipThrusterBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnDropshipThrusterBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnDropshipThrusterB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnFlagA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnFlagA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnFlagAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnFlagADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnFlagA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnFlagAPole": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnFlagAPole",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnFlagAPoleName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnFlagAPoleDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnFlagAPole.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnFloodLight": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnFloodLight",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnFloodLightName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnFloodLightDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnFloodLight.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnFloodLightStand": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnFloodLightStand",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnFloodLightStandName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnFloodLightStandDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnFloodLightStand.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnHackingConsoleA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnHackingConsoleA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnHackingConsoleAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnHackingConsoleADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnHackingConsoleA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnLadderLongA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnLadderLongA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnLadderLongAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnLadderLongADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnLadderLongA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnLandVehicleB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnLandVehicleB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnLandVehicleBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnLandVehicleBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnLandVehicleB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnLanternA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnLanternA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnLanternAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnLanternADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnLanternA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnLootCrateA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnLootCrateA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnLootCrateAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnLootCrateADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnLootCrateA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnLootCrateADestroyed": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnLootCrateADestroyed",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnLootCrateADestroyedName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnLootCrateADestroyedDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnLootCrateADestroyed.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnLootLockerA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnLootLockerA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnLootLockerAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnLootLockerADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnLootLockerA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnMedicalStretcherA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnMedicalStretcherA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnMedicalStretcherAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnMedicalStretcherADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnMedicalStretcherA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnMedicalStretcherB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnMedicalStretcherB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnMedicalStretcherBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnMedicalStretcherBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnMedicalStretcherB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnPlatformA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnPlatformA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnPlatformAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnPlatformADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnPlatformA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnPlatformB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnPlatformB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnPlatformBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnPlatformBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnPlatformB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnRepairPad": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnRepairPad",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnRepairPadName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnRepairPadDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnRepairPad.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnSabotageTargetA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnSabotageTargetA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnSabotageTargetAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnSabotageTargetADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnSabotageTargetA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnSconceLight": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnSconceLight",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnSconceLightName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnSconceLightDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnSconceLight.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnShieldBattery": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnShieldBattery",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnShieldBatteryName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnShieldBatteryDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnShieldBattery.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnShieldBatteryDax": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnShieldBatteryDax",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnShieldBatteryDaxName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnShieldBatteryDaxDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnShieldBatteryDax.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnShieldGeneratorA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnShieldGeneratorA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnShieldGeneratorAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnShieldGeneratorADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnShieldGeneratorA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStorageBox": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStorageBox",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageBoxName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageBoxDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStorageBox.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStorageCrateA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStorageCrateA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageCrateAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageCrateADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStorageCrateA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStorageCrateB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStorageCrateB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageCrateBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageCrateBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStorageCrateB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStorageCrateC": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStorageCrateC",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageCrateCName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageCrateCDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStorageCrateC.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStorageStackTarpedB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStorageStackTarpedB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageStackTarpedBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStorageStackTarpedBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStorageStackTarpedB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStunRayBaseA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStunRayBaseA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStunRayBaseAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStunRayBaseADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStunRayBaseA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnStunRayTopA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnStunRayTopA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnStunRayTopAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnStunRayTopADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnStunRayTopA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnSupplyCrate": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnSupplyCrate",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnSupplyCrateName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnSupplyCrateDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnSupplyCrate.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnTankTrapA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnTankTrapA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnTankTrapAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnTankTrapADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnTankTrapA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartC": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartC",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartCName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartCDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartC.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartD": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartD",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartDName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartDDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartD.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartE": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartE",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartEName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartEDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartE.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartF": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartF",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartFName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartFDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartF.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartG": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartG",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartGName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartGDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartG.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartH": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartH",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartHName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartHDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartH.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnThumperBotPartJ": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnThumperBotPartJ",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartJName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnThumperBotPartJDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnThumperBotPartJ.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnTrenchArchSupportBaseA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnTrenchArchSupportBaseA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnTrenchArchSupportBaseAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnTrenchArchSupportBaseADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnTrenchArchSupportBaseA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnTrenchArtilleryBase": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnTrenchArtilleryBase",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnTrenchArtilleryBaseName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnTrenchArtilleryBaseDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnTrenchArtilleryBase.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnTrenchArtilleryGun": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnTrenchArtilleryGun",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnTrenchArtilleryGunName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnTrenchArtilleryGunDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnTrenchArtilleryGun.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+                    "ItemCount": 2000
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnTripodA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnTripodA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnTripodAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnTripodADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnTripodA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnWarAssetA": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnWarAssetA",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnWarAssetAName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnWarAssetADesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnWarAssetA.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnWarAssetB": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnWarAssetB",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnWarAssetBName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnWarAssetBDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnWarAssetB.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                    "ItemCount": 20000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/GrineerTauPlaceables/GrineerTau1stRelease/STMxGrnWarAssetC": {
+            "resultType": "/Lotus/Objects/Tenno/Props/TauGrineerPlaceables/STMxGrnWarAssetC",
+            "name": "/Lotus/Language/DojoDecosGrineer/STMxGrnWarAssetCName",
+            "description": "/Lotus/Language/DojoDecosGrineer/STMxGrnWarAssetCDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/GrineerPlaceables/GrineerTauPlaceables/STMxGrnWarAssetC.png",
+            "price": 50000,
+            "time": 86400,
+            "skipTimePrice": 750,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 30000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+                    "ItemCount": 6000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 10000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 7
+                }
+            ],
+            "capacityCost": 1
+        },
         "/Lotus/Levels/ClanDojo/ComponentPropRecipes/GrineerPlaceables/CmpMachineDReducedRecipe": {
             "resultType": "/Lotus/Objects/Tenno/Props/GrineerPlaceables/CmpMachineDReduced",
             "name": "/Lotus/Language/DojoDecosGrineer/CmpMachineDReducedName",
@@ -82804,7 +84596,7 @@
                     "ItemCount": 3500
                 }
             ],
-            "capacityCost": 3,
+            "capacityCost": 1,
             "requiredInVault": true
         },
         "/Lotus/Levels/ClanDojo/ComponentPropRecipes/DojoGroupedTeleporterRecipe": {
@@ -85153,6 +86945,122 @@
                 {
                     "ItemType": "/Lotus/Types/Items/MiscItems/Gallium",
                     "ItemCount": 20
+                }
+            ],
+            "capacityCost": 3,
+            "requiredInVault": true
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/RoadToTauEventTrophyBronzeRecipe": {
+            "resultType": "/Lotus/Objects/Events/RoadToTau/RoadToTauEventTrophyBronze",
+            "name": "/Lotus/Language/Iceblade/RoadToTauEventTrophyBronze",
+            "description": "/Lotus/Language/Iceblade/RoadToTauEventTrophyDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/MechEventTrophyGold.png",
+            "price": 1000000,
+            "time": 86400,
+            "skipTimePrice": 1500,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 120000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 50000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 42000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 10
+                }
+            ],
+            "capacityCost": 3,
+            "requiredInVault": true
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/RoadToTauEventTrophyGoldRecipe": {
+            "resultType": "/Lotus/Objects/Events/RoadToTau/RoadToTauEventTrophyGold",
+            "name": "/Lotus/Language/Iceblade/RoadToTauEventTrophyGold",
+            "description": "/Lotus/Language/Iceblade/RoadToTauEventTrophyDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/MechEventTrophyGold.png",
+            "price": 1000000,
+            "time": 86400,
+            "skipTimePrice": 1500,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 120000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 50000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 42000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 10
+                }
+            ],
+            "capacityCost": 3,
+            "requiredInVault": true
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/RoadToTauEventTrophySilverRecipe": {
+            "resultType": "/Lotus/Objects/Events/RoadToTau/RoadToTauEventTrophySilver",
+            "name": "/Lotus/Language/Iceblade/RoadToTauEventTrophySilver",
+            "description": "/Lotus/Language/Iceblade/RoadToTauEventTrophyDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/MechEventTrophySilver.png",
+            "price": 1000000,
+            "time": 86400,
+            "skipTimePrice": 1500,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 120000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 50000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 42000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 10
+                }
+            ],
+            "capacityCost": 3,
+            "requiredInVault": true
+        },
+        "/Lotus/Levels/ClanDojo/ComponentPropRecipes/RoadToTauEventTrophyTerracottaRecipe": {
+            "resultType": "/Lotus/Objects/Events/RoadToTau/RoadToTauEventTrophyTerracotta",
+            "name": "/Lotus/Language/Iceblade/RoadToTauEventTrophyTerracotta",
+            "description": "/Lotus/Language/Iceblade/RoadToTauEventTrophyDesc",
+            "icon": "/Lotus/Interface/Graphics/Dojo/DojoDecorations/MechEventTrophyTerracotta.png",
+            "price": 1000000,
+            "time": 86400,
+            "skipTimePrice": 1500,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 120000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
+                    "ItemCount": 50000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 42000
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule",
+                    "ItemCount": 10
                 }
             ],
             "capacityCost": 3,

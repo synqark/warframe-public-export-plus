@@ -2613,7 +2613,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
                             "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
@@ -2629,7 +2629,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
                             "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
@@ -2645,7 +2645,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
                             "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
@@ -2661,7 +2661,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
                             "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
@@ -2681,7 +2681,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
                             "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
@@ -2701,7 +2701,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
                             "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
@@ -3927,7 +3927,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationSecondaryWeapon",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -3942,7 +3942,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationSecondaryWeapon",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -3957,7 +3957,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationSecondaryWeapon",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -3972,7 +3972,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationSecondaryWeapon",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -3991,7 +3991,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationSecondaryWeapon",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -4010,7 +4010,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationSecondaryWeapon",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -5205,7 +5205,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/ConditionWithBonusDescription",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/DamageForNextShotDesc",
                             "sub": {
@@ -5219,7 +5219,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/ConditionWithBonusDescription",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/DamageForNextShotDesc",
                             "sub": {
@@ -5233,7 +5233,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/ConditionWithBonusDescription",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/DamageForNextShotDesc",
                             "sub": {
@@ -5247,7 +5247,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/ConditionWithBonusDescription",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/DamageForNextShotDesc",
                             "sub": {
@@ -5261,7 +5261,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/ConditionWithBonusDescription",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/DamageForNextShotDesc",
                             "sub": {
@@ -5275,7 +5275,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/ConditionWithBonusDescription",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointHitCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/DamageForNextShotDesc",
                             "sub": {
@@ -6754,7 +6754,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -6770,7 +6770,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -6786,7 +6786,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -6802,7 +6802,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -6818,7 +6818,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -6834,7 +6834,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -8068,7 +8068,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPrecisionHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -8084,7 +8084,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPrecisionHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -8100,7 +8100,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPrecisionHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -8116,7 +8116,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPrecisionHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -8132,7 +8132,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPrecisionHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {
@@ -8148,7 +8148,7 @@
                 {
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionNoChanceWithDurationAndStacks",
                     "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPrecisionHeadshotKillCondition_Description",
+                        "CONDITION": "/Lotus/Language/Upgrades/OnWeakPointKillCondition_Description",
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/WeaponDamageModDesc",
                             "sub": {

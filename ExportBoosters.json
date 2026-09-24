@@ -41,6 +41,12 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Boosters/ModDropChanceBooster.png",
         "typeName": "/Lotus/Types/Boosters/ModDropChanceBooster"
     },
+    "/Lotus/Types/StoreItems/Boosters/NarinBlessingStoreItem": {
+        "name": "/Lotus/Language/Iceblade/NarinBlessing",
+        "description": "/Lotus/Language/Iceblade/NarinBlessingDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Boosters/MasteryRankBlessingColdBooster.png",
+        "typeName": "/Lotus/Types/Boosters/NarinBlessing"
+    },
     "/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem": {
         "name": "/Lotus/Language/Items/ResourceAmountBoosterName",
         "description": "/Lotus/Language/Items/ResourceAmountBoosterDesc",

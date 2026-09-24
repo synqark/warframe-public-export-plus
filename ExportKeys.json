@@ -5001,6 +5001,92 @@
             "maxEnemyLevel": 50
         }
     },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainA": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartATitle",
+        "description": "/Lotus/Language/TauPrologue/QuestPartADesc",
+        "icon": "/Lotus/Interface/Quests/TauboundKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "replayable": true,
+        "chainStages": [
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/TauPrologue/TauPrologueAStage1Lua",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            }
+        ]
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueAStage1Lua": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartAStage2",
+        "parentName": "/Lotus/Types/Game/KeyItem",
+        "codexSecret": true,
+        "rewards": [],
+        "mission": {}
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainB": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartBTitle",
+        "description": "/Lotus/Language/TauPrologue/QuestPartBDesc",
+        "icon": "/Lotus/Interface/Quests/TauboundKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "replayable": true,
+        "chainStages": [
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Gameplay/ErisMortem/ErisMortemMissionKey",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            }
+        ]
+    },
+    "/Lotus/Types/Gameplay/ErisMortem/ErisMortemMissionKey": {
+        "name": "/Lotus/Language/TauPrologue/KeychainBMission",
+        "parentName": "/Lotus/Types/Game/KeyItem",
+        "codexSecret": true,
+        "rewards": [],
+        "mission": {}
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainC": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartCTitle",
+        "description": "/Lotus/Language/TauPrologue/QuestPartCDesc",
+        "icon": "/Lotus/Interface/Quests/TauboundKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "replayable": true,
+        "chainStages": [
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": [],
+                "messageToSendWhenTriggered": {
+                    "sender": "/Lotus/Language/Menu/Mailbox_WarframeSender_PostWar",
+                    "title": "/Lotus/Language/TauPrologue/InboxMessageSubject",
+                    "body": "/Lotus/Language/TauPrologue/InboxMessageBody",
+                    "attachments": [],
+                    "countedAttachments": [],
+                    "icon": "/Lotus/Interface/Icons/Npcs/Lotus_d.png",
+                    "transmission": "/Lotus/Sounds/Dialog/RoadToTau/DPrologueTauInbox0800Lotus",
+                    "highPriority": true
+                }
+            }
+        ]
+    },
     "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain": {
         "name": "/Lotus/Language/G1Quests/VorsPrizeKeychain",
         "description": "/Lotus/Language/Archive/VorLore",
@@ -8838,7 +8924,7 @@
         }
     },
     "/Lotus/Types/Keys/TauPrequel/TauPrequelQuestKeyBase": {
-        "name": "[HC] TAU PREQUEL",
+        "name": "/Lotus/Language/TauPrologue/QuestSelectorTitle",
         "parentName": "/Lotus/Types/Game/KeyItem",
         "codexSecret": true,
         "rewards": [],

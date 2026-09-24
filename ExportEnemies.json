@@ -18851,6 +18851,43 @@
                 }
             ]
         },
+        "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystGroundOnlyAgent": {
+            "baseLevel": 10,
+            "avatarTypes": {
+                "STANDARD": "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystGroundOnlyAvatar"
+            },
+            "items": [
+                {
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/SentientBrachiolystMeleeWeapon"
+                },
+                {
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/SentientBrachiolystMissileLauncher"
+                }
+            ]
+        },
+        "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystSimpleAgent": {
+            "baseLevel": 10,
+            "avatarTypes": {
+                "STANDARD": "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystSimpleAvatar"
+            }
+        },
+        "/Lotus/Types/Enemies/TauPrologue/TauPrologueSymbilyst/TauPrologueSymbilystAgent": {
+            "baseLevel": 1,
+            "avatarTypes": {
+                "STANDARD": "/Lotus/Types/Enemies/Sentients/Symbilyst/TauSentientSymbilystAvatar"
+            },
+            "items": [
+                {
+                    "type": "/Lotus/Types/Enemies/Sentients/Symbilyst/SentientSymbilystLaserLeft"
+                },
+                {
+                    "type": "/Lotus/Types/Enemies/Sentients/Symbilyst/SentientSymbilystPowerSuit"
+                },
+                {
+                    "type": "/Lotus/Types/Enemies/Sentients/Symbilyst/SentientSymbilystMeleeWeaponRight"
+                }
+            ]
+        },
         "/Lotus/Types/Enemies/TennoReplicants/FairyQuest/FairyQuestLokiAgent": {
             "baseLevel": 1,
             "avatarTypes": {
@@ -27338,7 +27375,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamARifleName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamARifleAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27359,7 +27396,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamASkateName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamASkateAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -27370,7 +27407,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamAHeavyName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamAHeavyAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -27381,7 +27418,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamAZanukaName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamAZanukaAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionHyenaDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 1000,
@@ -27405,7 +27442,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamBDisruptorName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamBDisruptorAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -27416,7 +27453,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamBHyenaName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamBHyenaAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBHyenaDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 1000,
@@ -27427,7 +27464,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamBOspreyName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamBRaptorAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBDroneDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27438,7 +27475,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamBRiotMoaName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamBRiotMoaAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBRiotBipedDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27449,7 +27486,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamCDeceptionName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamCDeceptionAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamC/CorpusChampionDeceiverDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27460,7 +27497,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamCMoaName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamCMoaAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionMoaDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27471,7 +27508,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamCHackerName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamCHackerAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamC/CorpusChampionDeceiverDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27482,7 +27519,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamCStealthName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamCStealthAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamC/CorpusChampionDeceiverDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27493,7 +27530,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamDBusterAName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamDBusterAAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -27504,7 +27541,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamDBusterBName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamDBusterBAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -27515,7 +27552,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamDBusterCName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamDBusterCAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -27526,7 +27563,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamDOspreyName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamDOspreyAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionSimpleDroneDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 150,
@@ -27537,7 +27574,7 @@
             "name": "/Lotus/Language/Enemies/CCTeamAHeavyName",
             "icon": "/Lotus/Interface/Icons/Npcs/Corpus/Champions/CCTeamAHeavyAgent.png",
             "faction": "Corpus",
-            "health": 150,
+            "health": 1000,
             "damageController": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController",
             "factionResistanceKeyword": "RK_CORPUS_FACTION",
             "killXPReward": 500,
@@ -37948,6 +37985,18 @@
             "droptable": "/Lotus/Types/DropTables/NewWar/SunkillerMissionDropTable",
             "codexScansRequired": 5
         },
+        "/Lotus/Types/Enemies/Sentients/Symbilyst/TauSentientSymbilystAvatar": {
+            "name": "/Lotus/Language/Enemies/SentientSymbilystName",
+            "icon": "/Lotus/Interface/Icons/Npcs/Sentients/Symbilyst.png",
+            "description": "/Lotus/Language/Enemies/SentientSymbiliystDesc",
+            "faction": "Sentient",
+            "health": 1000,
+            "damageController": "/Lotus/Types/Enemies/Sentients/Symbilyst/TauSentientSymbilystDamageController",
+            "factionResistanceKeyword": "RK_SENTIENT_FACTION",
+            "killXPReward": 300,
+            "droptable": "/Lotus/Types/DropTables/SentientSymbolistDropTable",
+            "codexScansRequired": 5
+        },
         "/Lotus/Types/Enemies/Sentients/Troopers/EidolonMeleeTrooperAvatar": {
             "name": "/Lotus/Language/Game/SentientMeleeTrooperName",
             "icon": "/Lotus/Interface/Icons/Npcs/Sentients/SentientMeleeTrooper.png",
@@ -40751,6 +40800,28 @@
             "damageController": "/Lotus/Types/Enemies/Tau/Uriel/Vythelas/VythelasEnemyDamageController",
             "factionResistanceKeyword": "RK_OROKIN_EMPIRE_FACTION",
             "killXPReward": 200,
+            "codexScansRequired": 5
+        },
+        "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystGroundOnlyAvatar": {
+            "name": "/Lotus/Language/Enemies/SentientBrachiolystName",
+            "icon": "/Lotus/Interface/Icons/Npcs/Sentients/Brachiolyst.png",
+            "description": "/Lotus/Language/Enemies/SentientBrachiolystDesc",
+            "faction": "Sentient",
+            "health": 300,
+            "damageController": "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaGroundOnlyBrachiolystDamageController",
+            "factionResistanceKeyword": "RK_SENTIENT_FACTION",
+            "killXPReward": 300,
+            "codexScansRequired": 5
+        },
+        "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystSimpleAvatar": {
+            "name": "/Lotus/Language/Enemies/SentientBrachiolystName",
+            "icon": "/Lotus/Interface/Icons/Npcs/Sentients/Brachiolyst.png",
+            "description": "/Lotus/Language/Enemies/SentientBrachiolystDesc",
+            "faction": "Sentient",
+            "health": 300,
+            "damageController": "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystSimpleDamageController",
+            "factionResistanceKeyword": "RK_SENTIENT_FACTION",
+            "killXPReward": 300,
             "codexScansRequired": 5
         },
         "/Lotus/Types/Enemies/TennoReplicants/FairyQuest/FairyQuestLokiAvatar": {
@@ -43998,11 +44069,11 @@
                 },
                 {
                     "bone": "GAME_R1_LEGOV3",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideLeg"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideLegRight"
                 },
                 {
                     "bone": "GAME_R1_LEGOV1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideLeg"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideLegRight"
                 },
                 {
                     "bone": "GAME_L1_LEGOV1",
@@ -44018,7 +44089,7 @@
                 },
                 {
                     "bone": "GAME_R1_CLAVOV1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideShoulder"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideShoulderRight"
                 },
                 {
                     "bone": "GAME_L1_ARMLONG1",
@@ -44026,7 +44097,7 @@
                 },
                 {
                     "bone": "GAME_R1_ARMLONG1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideBicep"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideBicepRight"
                 },
                 {
                     "bone": "GAME_L1_ARMLONG2",
@@ -44034,7 +44105,7 @@
                 },
                 {
                     "bone": "GAME_R1_ARMLONG2",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideForearm"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideForearmRight"
                 },
                 {
                     "bone": "GAME_L1_ARMEXT1",
@@ -44042,7 +44113,7 @@
                 },
                 {
                     "bone": "GAME_R1_ARMEXT1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverridePincerArm"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverridePincerArmRight"
                 },
                 {
                     "bone": "GAME_L1_ARMEXT2",
@@ -44050,7 +44121,7 @@
                 },
                 {
                     "bone": "GAME_R1_ARMEXT2",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverridePincerForearm"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverridePincerForearmRight"
                 },
                 {
                     "bone": "GAME_L1_ARMEXT4",
@@ -44058,7 +44129,7 @@
                 },
                 {
                     "bone": "GAME_R1_ARMEXT4",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverridePincerHand"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverridePincerHandRight"
                 },
                 {
                     "bone": "GAME_C1_NECKOV1",
@@ -44070,7 +44141,7 @@
                 },
                 {
                     "bone": "GAME_R1_TOPWING1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideTopWing"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideTopWingRight"
                 },
                 {
                     "bone": "GAME_L1_TOPWING1",
@@ -44078,7 +44149,7 @@
                 },
                 {
                     "bone": "GAME_R1_TOPWING1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideFrontWing"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideFrontWingRight"
                 },
                 {
                     "bone": "GAME_L1_TOPWING1",
@@ -44086,7 +44157,7 @@
                 },
                 {
                     "bone": "GAME_R1_TOPWING1",
-                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideBackWing"
+                    "type": "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamOverrideBackWingRight"
                 },
                 {
                     "bone": "GAME_C1_TOPOV",
@@ -45944,6 +46015,12 @@
         "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/EliteDroneDamageController": {
             "armor": 0,
             "shield": 50,
+            "hitProxies": [
+                {
+                    "bone": "",
+                    "type": "/Lotus/Types/Enemies/Corpus/Drones/DroneAvatars/HitProxies/EliteDroneFullBody"
+                }
+            ],
             "unhandledProcTypes": [
                 "PT_KNOCKBACK",
                 "PT_FRAILTY",
@@ -56201,7 +56278,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD1",
@@ -56262,7 +56339,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionHyenaDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD1",
@@ -56344,7 +56421,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionMoaDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_SPINE2",
@@ -56389,7 +56466,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/CorpusChampionSimpleDroneDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD",
@@ -56428,7 +56505,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD1",
@@ -56489,7 +56566,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBDroneDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD",
@@ -56523,7 +56600,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBHyenaDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD1",
@@ -56605,7 +56682,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBRiotBipedDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_SPINE2",
@@ -56675,7 +56752,7 @@
         },
         "/Lotus/Types/Enemies/CorpusChampions/TeamC/CorpusChampionDeceiverDamageController": {
             "armor": 200,
-            "shield": 100,
+            "shield": 2500,
             "hitProxies": [
                 {
                     "bone": "GAME_C1_HEAD1",
@@ -72297,7 +72374,7 @@
                 },
                 {
                     "bone": "GAME_C1_OUTERBLOCK1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandHitProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandOneHitProxy"
                 },
                 {
                     "bone": "GAME_C2_ARM1",
@@ -72305,7 +72382,7 @@
                 },
                 {
                     "bone": "GAME_C2_OUTERBLOCK1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandHitProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandTwoHitProxy"
                 },
                 {
                     "bone": "GAME_C3_ARM1",
@@ -72313,7 +72390,7 @@
                 },
                 {
                     "bone": "GAME_C3_OUTERBLOCK1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandHitProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandThreeHitProxy"
                 },
                 {
                     "bone": "GAME_C4_ARM1",
@@ -72321,7 +72398,7 @@
                 },
                 {
                     "bone": "GAME_C4_OUTERBLOCK1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandHitProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandFourHitProxy"
                 },
                 {
                     "bone": "GAME_C5_ARM1",
@@ -72329,7 +72406,7 @@
                 },
                 {
                     "bone": "GAME_C5_OUTERBLOCK1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandHitProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HitProxies/HandBomberOuterHandFiveHitProxy"
                 }
             ],
             "unhandledProcTypes": []
@@ -72904,23 +72981,19 @@
             "hitProxies": [
                 {
                     "bone": "GAME_R1_LEG1",
-                    "type": "/Lotus/Types/Enemies/Grineer/GrineerAvatars/HitProxies/GrineerTorso"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/Octopede/Leg/BipedalLegs/HitProxies/BipedaRightUpperLeg"
                 },
                 {
                     "bone": "GAME_R1_LEG2",
-                    "type": "/Lotus/Types/Enemies/Grineer/GrineerAvatars/HitProxies/GrineerTorso"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/Octopede/Leg/BipedalLegs/HitProxies/BipedaRightLowerLeg"
                 },
                 {
                     "bone": "GAME_L1_LEG1",
-                    "type": "/Lotus/Types/Enemies/Grineer/GrineerAvatars/HitProxies/GrineerTorso"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/Octopede/Leg/BipedalLegs/HitProxies/BipedaLeftUpperLeg"
                 },
                 {
                     "bone": "GAME_L1_LEG2",
-                    "type": "/Lotus/Types/Enemies/Grineer/GrineerAvatars/HitProxies/GrineerTorso"
-                },
-                {
-                    "bone": "GAME_C1_SPINECORE1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/Octopede/Leg/BipedalLegs/HitProxies/BipedalLegsSpineHitProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/Octopede/Leg/BipedalLegs/HitProxies/BipedaLeftLowerLeg"
                 },
                 {
                     "bone": "GAME_C1_SPINECORE1",
@@ -73259,7 +73332,7 @@
                 },
                 {
                     "bone": "GAME_L2_ARM1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigShoulderProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigShoulderLeftProxy"
                 },
                 {
                     "bone": "GAME_R2_ARM1",
@@ -73267,7 +73340,7 @@
                 },
                 {
                     "bone": "GAME_L2_ARM2",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigForearmProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigForearmLeftProxy"
                 },
                 {
                     "bone": "GAME_R2_ARM2",
@@ -73275,7 +73348,7 @@
                 },
                 {
                     "bone": "GAME_L2_HAND1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigHandProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigHandLeftProxy"
                 },
                 {
                     "bone": "GAME_R2_HAND1",
@@ -73283,7 +73356,7 @@
                 },
                 {
                     "bone": "GAME_L1_ARM2",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallForearmProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallForearmLeftProxy"
                 },
                 {
                     "bone": "GAME_R1_ARM2",
@@ -73291,7 +73364,7 @@
                 },
                 {
                     "bone": "GAME_L1_CLAV1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallUpperarmProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallUpperarmRightProxy"
                 },
                 {
                     "bone": "GAME_R1_CLAV1",
@@ -73337,7 +73410,7 @@
                 },
                 {
                     "bone": "GAME_L2_ARM1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigShoulderProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigShoulderLeftProxy"
                 },
                 {
                     "bone": "GAME_R2_ARM1",
@@ -73345,7 +73418,7 @@
                 },
                 {
                     "bone": "GAME_L2_ARM2",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigForearmProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigForearmLeftProxy"
                 },
                 {
                     "bone": "GAME_R2_ARM2",
@@ -73353,7 +73426,7 @@
                 },
                 {
                     "bone": "GAME_L2_HAND1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigHandProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxBigHandLeftProxy"
                 },
                 {
                     "bone": "GAME_R2_HAND1",
@@ -73361,7 +73434,7 @@
                 },
                 {
                     "bone": "GAME_L1_ARM2",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallForearmProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallForearmLeftProxy"
                 },
                 {
                     "bone": "GAME_R1_ARM2",
@@ -73369,7 +73442,7 @@
                 },
                 {
                     "bone": "GAME_L1_CLAV1",
-                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallUpperarmProxy"
+                    "type": "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/HitProxies/TreasureBoxSmallUpperarmRightProxy"
                 },
                 {
                     "bone": "GAME_R1_CLAV1",
@@ -82254,6 +82327,116 @@
                 "PT_RAGDOLL"
             ]
         },
+        "/Lotus/Types/Enemies/Sentients/Symbilyst/TauSentientSymbilystDamageController": {
+            "armor": 300,
+            "shield": 0,
+            "hitProxies": [
+                {
+                    "bone": "GAME_C1_JAW2",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseHead"
+                },
+                {
+                    "bone": "GAME_C1_NECK1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseNeck"
+                },
+                {
+                    "bone": "GAME_C1_NECK1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseNeckRear"
+                },
+                {
+                    "bone": "GAME_C1_SPINE5",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseShoulderblades"
+                },
+                {
+                    "bone": "GAME_L1_CLAV1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseShoulderL"
+                },
+                {
+                    "bone": "GAME_L1_CLAV1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseShoulderLargeL"
+                },
+                {
+                    "bone": "GAME_R1_CLAV1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseShoulderR"
+                },
+                {
+                    "bone": "GAME_R1_CLAV1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseShoulderLargeR"
+                },
+                {
+                    "bone": "GAME_C1_SPINE5",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseUpperTorso"
+                },
+                {
+                    "bone": "GAME_L1_LEG1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseLegLeftUpper"
+                },
+                {
+                    "bone": "GAME_L1_LEG1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseLegLeftMid"
+                },
+                {
+                    "bone": "GAME_L1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseLegLeftLower"
+                },
+                {
+                    "bone": "GAME_R1_LEG1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseLegRightUpper"
+                },
+                {
+                    "bone": "GAME_R1_LEG1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseLegRightMid"
+                },
+                {
+                    "bone": "GAME_R1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseLegRightLower"
+                },
+                {
+                    "bone": "GAME_C1_HIP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseTail"
+                },
+                {
+                    "bone": "GAME_C1_HIP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseTail"
+                },
+                {
+                    "bone": "GAME_L1_ARM1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseArmLeftUpper"
+                },
+                {
+                    "bone": "GAME_L1_ARM2",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseArmLeftLower"
+                },
+                {
+                    "bone": "GAME_R1_ARM1",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseArmRightUpper"
+                },
+                {
+                    "bone": "GAME_R1_ARM2",
+                    "type": "/Lotus/Types/Enemies/Sentients/SentientBaseArmRightLower"
+                }
+            ],
+            "unhandledProcTypes": [
+                "PT_KNOCKBACK",
+                "PT_FRAILTY",
+                "PT_BLEEDING",
+                "PT_CHILLED",
+                "PT_ELECTROCUTION",
+                "PT_POISONED",
+                "PT_FLASHBANG",
+                "PT_RAD_TOX",
+                "PT_ASPHYXIATION",
+                "PT_MAGNETIZED",
+                "PT_INFECTED",
+                "PT_CAUSTIC_BURN",
+                "PT_RADIANT",
+                "PT_STAGGERED",
+                "PT_BIG_STAGGER",
+                "PT_STUNNED",
+                "PT_KNOCKED_DOWN",
+                "PT_RAGDOLL"
+            ]
+        },
         "/Lotus/Types/Enemies/Sentients/Troopers/SentientTrooperDamageController": {
             "armor": 150,
             "shield": 0,
@@ -86910,6 +87093,160 @@
                 "PT_KNOCKED_DOWN"
             ]
         },
+        "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaBrachiolystSimpleDamageController": {
+            "armor": 50,
+            "shield": 450,
+            "hitProxies": [
+                {
+                    "bone": "",
+                    "type": "/EE/Types/Physics/FullBody"
+                }
+            ],
+            "unhandledProcTypes": [
+                "PT_BIG_STAGGER"
+            ]
+        },
+        "/Lotus/Types/Enemies/TauPrologue/LuaBrachiolystGroundOnly/LuaGroundOnlyBrachiolystDamageController": {
+            "armor": 50,
+            "shield": 450,
+            "hitProxies": [
+                {
+                    "bone": "GAME_L1_ARMCLAW1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawLeftUpperA"
+                },
+                {
+                    "bone": "GAME_L1_ARMCLAW1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawLeftUpperB"
+                },
+                {
+                    "bone": "GAME_L1_ARMCLAW2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawLeftLowerA"
+                },
+                {
+                    "bone": "GAME_L1_ARMCLAW2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawLeftLowerB"
+                },
+                {
+                    "bone": "GAME_L1_ARM3",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystArmLeftLower"
+                },
+                {
+                    "bone": "GAME_L1_ARM2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystArmLeftUpper"
+                },
+                {
+                    "bone": "GAME_L1_ARM1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystShoulderLeft"
+                },
+                {
+                    "bone": "GAME_R1_ARMCLAW1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawRightUpperA"
+                },
+                {
+                    "bone": "GAME_R1_ARMCLAW1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawRightUpperB"
+                },
+                {
+                    "bone": "GAME_R1_ARMCLAW2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawRightLowerA"
+                },
+                {
+                    "bone": "GAME_R1_ARMCLAW2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystClawRightLowerB"
+                },
+                {
+                    "bone": "GAME_R1_ARM3",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystArmRightLower"
+                },
+                {
+                    "bone": "GAME_R1_ARM2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystArmRightUpper"
+                },
+                {
+                    "bone": "GAME_R1_ARM1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystShoulderRight"
+                },
+                {
+                    "bone": "GAME_L1_LEG1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegLeftUpper"
+                },
+                {
+                    "bone": "GAME_L1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegLeftLower"
+                },
+                {
+                    "bone": "GAME_L1_GUNREAR1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegLeftFin"
+                },
+                {
+                    "bone": "GAME_L1_GUNREAR3",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegLeftFin"
+                },
+                {
+                    "bone": "GAME_R1_LEG1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegRightUpper"
+                },
+                {
+                    "bone": "GAME_R1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegRightLower"
+                },
+                {
+                    "bone": "GAME_R1_GUNREAR1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegRightFin"
+                },
+                {
+                    "bone": "GAME_R1_GUNREAR3",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystLegRightFin"
+                },
+                {
+                    "bone": "GAME_C1_BODYLO1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoLowerA"
+                },
+                {
+                    "bone": "GAME_C1_BODYLO1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoLowerB"
+                },
+                {
+                    "bone": "GAME_C1_BODYLO2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoLowerC"
+                },
+                {
+                    "bone": "GAME_C1_HEAD1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystHead"
+                },
+                {
+                    "bone": "GAME_C1_BODYTOP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoUpperA"
+                },
+                {
+                    "bone": "GAME_C1_BODYTOP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoUpperB"
+                },
+                {
+                    "bone": "GAME_C1_BODYTOP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoUpperC"
+                },
+                {
+                    "bone": "GAME_C1_BODYTOP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoDisk"
+                },
+                {
+                    "bone": "GAME_L1_GUNFIREFRONT2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoFin"
+                },
+                {
+                    "bone": "GAME_R1_GUNFIREFRONT2",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoFin"
+                },
+                {
+                    "bone": "GAME_C1_BODYTOP1",
+                    "type": "/Lotus/Types/Enemies/Sentients/Brachiolyst/Proxy/BrachiolystTorsoSpark"
+                }
+            ],
+            "unhandledProcTypes": [
+                "PT_BIG_STAGGER"
+            ]
+        },
         "/Lotus/Types/Enemies/TennoReplicants/FairyQuest/KnaveLokiDecoyDamageController": {
             "armor": 200,
             "shield": 100,
@@ -87845,11 +88182,11 @@
                 },
                 {
                     "bone": "GAME_R1_SARM1",
-                    "type": "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/HitProxies/AncientRightSArmHigher"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedAncient/HitProxies/Infested1999AncientRightSArmHigher"
                 },
                 {
                     "bone": "GAME_R1_SARM5",
-                    "type": "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/HitProxies/AncientRightSArm5"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedAncient/HitProxies/Infested1999AncientRightS5Arm"
                 },
                 {
                     "bone": "GAME_R1_SARM8",
@@ -87857,11 +88194,11 @@
                 },
                 {
                     "bone": "GAME_R1_SARM11",
-                    "type": "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/HitProxies/AncientRightSArmWrist"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedAncient/HitProxies/Infested1999AncientRightSArmWrist"
                 },
                 {
                     "bone": "GAME_R1_SARM13",
-                    "type": "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/HitProxies/AncientRightSArmHigherEnd"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedAncient/HitProxies/Infested1999AncientRightSArmHigherEnd"
                 },
                 {
                     "bone": "GAME_L1_ARM1",
@@ -88060,64 +88397,64 @@
                     "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauTorsoSideProxy"
                 },
                 {
-                    "bone": "GAME_C1_LEGA1",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2Proxy"
+                    "bone": "GAME_R1_LEGB1",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2aProxy"
                 },
                 {
                     "bone": "GAME_L1_LEGB1",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2Proxy"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2bProxy"
                 },
                 {
-                    "bone": "GAME_R1_LEGB1",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2Proxy"
-                },
-                {
-                    "bone": "GAME_C1_LEGA2",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3Proxy"
-                },
-                {
-                    "bone": "GAME_L1_LEGB2",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3Proxy"
+                    "bone": "GAME_C1_LEGA1",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2cProxy"
                 },
                 {
                     "bone": "GAME_R1_LEGB2",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3Proxy"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3aProxy"
                 },
                 {
-                    "bone": "GAME_C1_LEGA3",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4Proxy"
+                    "bone": "GAME_L1_LEGB2",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3bProxy"
                 },
                 {
-                    "bone": "GAME_L1_LEGB3",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4Proxy"
+                    "bone": "GAME_C1_LEGA2",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3cProxy"
                 },
                 {
                     "bone": "GAME_R1_LEGB3",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4Proxy"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4aProxy"
                 },
                 {
-                    "bone": "GAME_C1_LEGA4",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5Proxy"
+                    "bone": "GAME_L1_LEGB3",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4bProxy"
                 },
                 {
-                    "bone": "GAME_L1_LEGB4",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5Proxy"
+                    "bone": "GAME_C1_LEGA3",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4cProxy"
                 },
                 {
                     "bone": "GAME_R1_LEGB4",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5Proxy"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5aProxy"
                 },
                 {
-                    "bone": "GAME_C1_LEGA5",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6proxy"
+                    "bone": "GAME_L1_LEGB4",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5bProxy"
                 },
                 {
-                    "bone": "GAME_L1_LEGB5",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6proxy"
+                    "bone": "GAME_C1_LEGA4",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5cProxy"
                 },
                 {
                     "bone": "GAME_R1_LEGB5",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6proxy"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6aProxy"
+                },
+                {
+                    "bone": "GAME_L1_LEGB5",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6bProxy"
+                },
+                {
+                    "bone": "GAME_C1_LEGA5",
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6cProxy"
                 },
                 {
                     "bone": "GAME_C1_TENTACLEA31",
@@ -88187,15 +88524,15 @@
                 },
                 {
                     "bone": "GAME_R1_LEG1",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedMutalist/Proxy/1999MoaUpperLeg"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedMutalist/Proxy/1999MoaUpperRightLeg"
                 },
                 {
                     "bone": "GAME_R1_LEG2",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedMutalist/Proxy/1999MoaMiddleLeg"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedMutalist/Proxy/1999MoaMiddleRightLeg"
                 },
                 {
                     "bone": "GAME_R1_LEG3",
-                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedMutalist/Proxy/1999MoaLowerLeg"
+                    "type": "/Lotus/Types/Enemies/WF1999Infested/InfestedMutalist/Proxy/1999MoaLowerRightLeg"
                 },
                 {
                     "bone": "GAME_R1_LEG1",
@@ -88342,11 +88679,11 @@
             "shield": 150,
             "hitProxies": [
                 {
-                    "bone": "GAME_R1_LEGB2",
+                    "bone": "GAME_L1_LEGB2",
                     "type": "/Lotus/Types/NeutralCreatures/Conservation/Deimos/InfestedUndazoa/UndazoaBackLeftLegMid"
                 },
                 {
-                    "bone": "GAME_L1_LEGB2",
+                    "bone": "GAME_R1_LEGB2",
                     "type": "/Lotus/Types/NeutralCreatures/Conservation/Deimos/InfestedUndazoa/UndazoaBackRightLegMid"
                 },
                 {
@@ -109609,6 +109946,9 @@
         "/EE/Types/Npc/Avatars/HitProxies/TorsoLarge": {
             "criticalMultiplier": 1
         },
+        "/EE/Types/Physics/FullBody": {
+            "criticalMultiplier": 2
+        },
         "/Lotus/Types/Enemies/Corpus/Amalgams/HitProxy/AmalgamCarrusEye": {
             "damageAtten": 2
         },
@@ -109667,6 +110007,9 @@
         "/Lotus/Types/Enemies/Corpus/Drones/DroneAvatars/HitProxies/DroneHeadHitProxy": {
             "damageAtten": 2,
             "criticalMultiplier": 2
+        },
+        "/Lotus/Types/Enemies/Corpus/Drones/DroneAvatars/HitProxies/EliteDroneFullBody": {
+            "criticalMultiplier": 1
         },
         "/Lotus/Types/Enemies/Corpus/Drones/Vip/HitProxies/InvulLeftWingProxy": {
             "damageAtten": 0
@@ -111223,30 +111566,6 @@
         "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauHeadProxy": {
             "criticalChance": 1,
             "criticalMultiplier": 2
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg2Proxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg3Proxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg4Proxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg5Proxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLeg6proxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauLowerCenterProxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauTorsoSideProxy": {
-            "criticalMultiplier": 1
-        },
-        "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauUpperCenterProxy": {
-            "criticalMultiplier": 1
         },
         "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/HitProxies/InfestedBabauWeakpoint1Proxy": {
             "criticalChance": 1,

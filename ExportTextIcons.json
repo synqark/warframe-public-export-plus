@@ -2276,5 +2276,20 @@
     },
     "FOIL_UNLOCKER": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StoreIcons/MiscItems/FoilModUnlocker.png"
+    },
+    "RIVEN_SPLICER": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StoreIcons/Resources/RivenSplicer.png"
+    },
+    "CHAIN_MARKER_A": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/Markers/ChainMarkerA.png"
+    },
+    "CHAIN_MARKER_B": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/Markers/ChainMarkerB.png"
+    },
+    "IOS_LOTUS_BLAST_ABILITY": {
+        "DIT_AUTO": "/EE/Interface/Graphics/PlatformKeys/IOSController/AbilityIcons/LotusBlast_d.png"
+    },
+    "IOS_LOTUS_SING_ABILITY": {
+        "DIT_AUTO": "/EE/Interface/Graphics/PlatformKeys/IOSController/AbilityIcons/LotusSing_d.png"
     }
 }

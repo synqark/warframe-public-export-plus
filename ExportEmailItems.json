@@ -506,6 +506,19 @@
             "highPriority": true
         }
     },
+    "/Lotus/Types/Items/EmailItems/MelicaInboxEmailItem": {
+        "sendOnlyOnce": true,
+        "message": {
+            "sender": "/Lotus/Language/Iceblade/MelicaName",
+            "title": "/Lotus/Language/Iceblade/MelicaInboxSubject",
+            "body": "/Lotus/Language/Iceblade/MelicaInboxBody",
+            "attachments": [],
+            "countedAttachments": [],
+            "icon": "/Lotus/Interface/Icons/Npcs/Melica.png",
+            "transmission": "/Lotus/Sounds/Dialog/Iceblade/DIBInbox0010Melica",
+            "highPriority": true
+        }
+    },
     "/Lotus/Types/Items/EmailItems/NatahEmailItem": {
         "sendOnlyOnce": true,
         "message": {
@@ -683,6 +696,21 @@
             "icon": "/Lotus/Interface/Icons/Npcs/Ordis.png",
             "highPriority": true,
             "cinematic": "/Lotus/Levels/Cinematics/ParvosBoardroomRelit.level"
+        }
+    },
+    "/Lotus/Types/Items/EmailItems/TauPrologueEmailItem": {
+        "sendOnlyOnce": true,
+        "message": {
+            "sender": "/Lotus/Language/EntratiLab/EntratiGeneral/HumanLoid",
+            "title": "/Lotus/Language/TauPrologue/IntroMessageSubject",
+            "body": "/Lotus/Language/TauPrologue/IntroMessageBody",
+            "attachments": [
+                "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainA"
+            ],
+            "countedAttachments": [],
+            "icon": "/Lotus/Interface/Icons/Npcs/EntratiLab/Loid.png",
+            "transmission": "/Lotus/Sounds/Dialog/RoadToTau/DPrologueTauInbox0004Loid",
+            "highPriority": true
         }
     },
     "/Lotus/Types/Items/EmailItems/TennokaiEmailItem": {

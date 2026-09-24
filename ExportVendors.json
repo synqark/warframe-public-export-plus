@@ -60937,6 +60937,470 @@
             "maxValue": 0
         }
     },
+    "/Lotus/Types/Game/VendorManifests/Hubs/MelicaVendorManifest": {
+        "isDynamic": true,
+        "isOneBinPerCycle": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NarinBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 400,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NarinChassisBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 130,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NarinHelmetBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 130,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/NarinSystemsBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 130,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/DuelistBowBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 200,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistBowUpperLimbBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistBowStringBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistBowGripBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistBowLowerLimbBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/DuelistPistolsBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 200,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistPistolsBarrelBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 30,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistPistolsReceiverBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 30,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/DuelistPistolsLinkBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 60,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/FrozenSigil",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 250,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Titles/NarinTitle",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Effects/DuelistSpiritEphemera",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardNarin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/DuelistHoodOrnament",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileTWWMountainPeakHub",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarMelicaLab",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/SongItems/NeotesDanceSongItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/SongItems/IceSpeakerSongItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/DuelistArmour/DuelistArmourA",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 80,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/DuelistArmour/DuelistArmourC",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 80,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/DuelistArmour/DuelistArmourL",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 80,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/Daggers/ArchonDaggerDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/Swords/DarkSplitSwordDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/Swords/DarkDaggerDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/Swords/DarkSwordDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/GreatSword/BallasSwordDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/Glaives/TeshinGlaiveDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/LongGuns/CrpFreezeRayDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Weapons/LongGuns/RailjackRifleDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetDuelistSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
+                "quantity": 10500,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ],
+                "durationHours": 168,
+                "purchaseLimit": 4
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Hubs/PerrinSequenceWeaponVendorManifest": {
         "isDynamic": true,
         "isOneBinPerCycle": false,
@@ -62578,6 +63042,29 @@
             "minValue": 28,
             "maxValue": 28
         }
+    },
+    "/Lotus/Types/Game/VendorManifests/KuvaKeys/KuvaKeysVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/KuvaKeys/KuvaKeyOne",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "credits": 10
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/KuvaKeys/KuvaKeyTest",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "credits": 10,
+                "durationHours": 24
+            }
+        ]
     },
     "/Lotus/Types/Game/VendorManifests/Ostron/ConservationRewardsManifest": {
         "isDynamic": false,
@@ -71461,6 +71948,36 @@
                     {
                         "ItemCount": 15,
                         "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Titles/RoatheTitles/QorvexDeluxeTitle",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 200,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Titles/RoatheTitles/BansheeDeluxeTitle",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/GrnFlameSpearPart"
                     }
                 ],
                 "durationHours": 24
