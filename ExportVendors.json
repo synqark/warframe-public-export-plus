@@ -6324,7 +6324,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
-                "quantity": 5000,
+                "quantity": 10000,
                 "alwaysOffered": false,
                 "bin": 2,
                 "probability": 0.4,
@@ -8988,6 +8988,231 @@
                     }
                 ],
                 "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetDOTDSkin",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2026FollieGlyph",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 20,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2026VorunaGlyph",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 20,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Halloween2026SiriusOrionPoster",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 25,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SheduSkin",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 90,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025OkinaSkin",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 90,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025AtomosSkin",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 90,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025TaxonSkin",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 90,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/GrineerShip/LisetGrineerShipDOTD",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025OperatorMask",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Scarves/DOTD2025MonarchSyandana",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SentinelMask",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 35,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SentinelTail",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 35,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SentinelWings",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 35,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/DOTD2025NoraGlyph",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 20,
+                        "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                    }
+                ],
+                "durationHours": 24
             }
         ]
     },
@@ -9756,19 +9981,19 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
-                "quantity": 6000,
+                "quantity": 14000,
                 "alwaysOffered": false,
                 "bin": 0,
                 "probability": 1,
                 "duplicates": 0,
                 "itemPrices": [
                     {
-                        "ItemCount": 100,
+                        "ItemCount": 25,
                         "ItemType": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemB"
                     }
                 ],
                 "durationHours": 168,
-                "purchaseLimit": 7
+                "purchaseLimit": 3
             }
         ]
     },
@@ -36720,6 +36945,163 @@
                     }
                 ],
                 "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025OkinaSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025AtomosSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/GrineerShip/LisetGrineerShipDOTD",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025OperatorMask",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025TaxonSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Scarves/DOTD2025MonarchSyandana",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SentinelMask",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 35,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SentinelTail",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 35,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SentinelWings",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 35,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/DOTD2025NoraGlyph",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 3,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 30,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Halloween/DOTD2025SheduSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 3,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+                    }
+                ]
             }
         ],
         "numItems": {
@@ -54186,6 +54568,686 @@
             4
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Events/RoadToTauEventVendorManifest": {
+        "isDynamic": true,
+        "isOneBinPerCycle": false,
+        "requiredGoalTag": "RoadToTauEvent",
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/EntNecraArmorTwo/EntNecraArmorTwoL",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 175,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/EntNecraArmorTwo/EntNecraArmorTwoA",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 175,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/EntNecraArmorTwo/EntNecraArmorTwoC",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 175,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Operator/Amp/EntratiAmpSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 375,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/VesselMaleGlyph",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/VesselFemaleGlyph",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/BabyNatahGlyph",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyBabyNatah",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/SongItems/DevourerSongItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Titles/MoonfleshTitle",
+                "quantity": 1,
+                "alwaysOffered": false,
+                "bin": 0,
+                "probability": 0.8,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 175,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "durationHours": 24
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/PraghasaHoodOrnament",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 250,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Scarves/DraculaCapeSyandana",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/EpochOperationSigil",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/EpochOperationEmblemItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorL",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorA",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorC",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Weapons/Sentients/SentOctaMiniGun/SentOctaMiniGun",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Scarves/ValdurBackCape",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 175,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/SlingStoneEmblemItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/CorpusVoidBadgeItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/HiveSabotageEventBadgeItem",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/EnergySigilA",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 75,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/SentRifleNewWarGunBlueprint",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Necramech/MechWeapon/MechEventCortegeSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Necramech/MechWeapon/MechEventMorghaSkin",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Crowns/LaurelHaloCrown",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 100,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/DangerRoom/DangerRoomTileArena",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 125,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 20,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 25
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/PickUps/Credits/10000Credits",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 3,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 100
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/AlertFusionBundleMedium",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 1,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 300
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 375,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 375,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 375,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Fusers/LegendaryModFuser",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilBasicAdd",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilTwoTone",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilMaskedEffect",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 50,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/ArmorOnMeleeKill",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 5,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageForActiveShields",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 5,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/MaxEnergyForArmor",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AbilityPowerOnFreeze",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/DuplicateStatusOnKnock",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/HeavyCritOnRegularMelee",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/CorrosiveMeleePerAbilityCast",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/MeleeProcsSpread",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/PullEnemiesOnMeleeKill",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/OverguardSteal",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/BonusDamageNextShotForCurEnergy",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 8,
+                        "ItemType": "/Lotus/Types/Gameplay/Events/RoadToTauEvent/RoadToTauEventResource"
+                    }
+                ],
+                "purchaseLimit": 42
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Events/ScarletSpearManifest": {
         "isDynamic": false,
         "items": [
@@ -59645,7 +60707,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
-                "quantity": 7000,
+                "quantity": 17000,
                 "alwaysOffered": false,
                 "bin": 0,
                 "probability": 1,
@@ -59661,7 +60723,7 @@
                     }
                 ],
                 "durationHours": 168,
-                "purchaseLimit": 7
+                "purchaseLimit": 3
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/HunhowTrinketBlueprint",
@@ -61202,6 +62264,19 @@
                 ]
             },
             {
+                "storeItem": "/Lotus/StoreItems/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarMelicaLabTreasureRoom",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 500,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
                 "storeItem": "/Lotus/StoreItems/Types/Items/SongItems/NeotesDanceSongItem",
                 "quantity": 1,
                 "alwaysOffered": true,
@@ -61379,6 +62454,110 @@
                 "itemPrices": [
                     {
                         "ItemCount": 150,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemA",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemB",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemC",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemD",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemE",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemF",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemG",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
+                        "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
+                    }
+                ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/NarinPoem/NarinPoemH",
+                "quantity": 1,
+                "alwaysOffered": true,
+                "bin": 0,
+                "duplicates": 0,
+                "itemPrices": [
+                    {
+                        "ItemCount": 10,
                         "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EntropicKuvaItem"
                     }
                 ]
@@ -69825,7 +71004,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
-                "quantity": 7000,
+                "quantity": 14000,
                 "alwaysOffered": false,
                 "bin": 0,
                 "probability": 1,
@@ -69837,7 +71016,7 @@
                     }
                 ],
                 "durationHours": 168,
-                "purchaseLimit": 6,
+                "purchaseLimit": 3,
                 "syndicate": {
                     "tag": "NightcapJournalSyndicate",
                     "minRank": 3,
@@ -75647,19 +76826,19 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
-                "quantity": 6000,
+                "quantity": 14000,
                 "alwaysOffered": false,
                 "bin": 0,
                 "probability": 1,
                 "duplicates": 0,
                 "itemPrices": [
                     {
-                        "ItemCount": 110,
+                        "ItemCount": 100,
                         "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceDefense"
                     }
                 ],
                 "durationHours": 168,
-                "purchaseLimit": 7
+                "purchaseLimit": 3
             }
         ]
     },

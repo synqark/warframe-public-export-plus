@@ -2291,5 +2291,11 @@
     },
     "IOS_LOTUS_SING_ABILITY": {
         "DIT_AUTO": "/EE/Interface/Graphics/PlatformKeys/IOSController/AbilityIcons/LotusSing_d.png"
+    },
+    "IOS_VESSEL_STOMP": {
+        "DIT_AUTO": "/EE/Interface/Graphics/PlatformKeys/IOSController/AbilityIcons/VesselStomp_d.png"
+    },
+    "IOS_VESSEL_GAZE": {
+        "DIT_AUTO": "/EE/Interface/Graphics/PlatformKeys/IOSController/AbilityIcons/VesselLaser_d.png"
     }
 }

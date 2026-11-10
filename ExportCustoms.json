@@ -8634,7 +8634,7 @@
             "/Lotus/Upgrades/Skins/Choir/SWCovenJadeHelmet"
         ],
         "tradable": false,
-        "platinumCost": 105
+        "platinumCost": 165
     },
     "/Lotus/Upgrades/Skins/Clan/Focus/MaduraiBadgeItem": {
         "name": "/Lotus/Language/Cosmetics/MaduraiBadgeItemName",
@@ -10884,7 +10884,7 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Halo/SWGothicaCrown.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
-        "platinumCost": 85
+        "platinumCost": 60
     },
     "/Lotus/Upgrades/Skins/Crowns/SWSignaPragmaticaCrown": {
         "name": "/Lotus/Language/SteamWorkshop/SWSignaPragmaticaName",
@@ -10902,7 +10902,7 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Halo/SWVermisCrown.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
-        "platinumCost": 85
+        "platinumCost": 60
     },
     "/Lotus/Upgrades/Skins/Crowns/SWZamariuSignaCrown": {
         "name": "/Lotus/Language/SteamWorkshop/SWZamariuSignaName",
@@ -12697,6 +12697,16 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Ephemera/BaroEvilEphemeraDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/BaroEvilEphemera.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 165,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Upgrades/Skins/Effects/BaroEvilEphemeraB": {
+        "name": "/Lotus/Language/Ephemera/BaroEvilEphemeraBName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Ephemera/BaroEvilEphemeraBDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/BaroEvilEphemeraB.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
         "platinumCost": 165,
@@ -16148,6 +16158,18 @@
         "tradable": false,
         "platinumCost": 165
     },
+    "/Lotus/Upgrades/Skins/Geode/CitrinePrimeAux": {
+        "name": "/Lotus/Language/Primes/CitrinePrimeAuxName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Primes/CitrinePrimeAuxDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/CitrinePrime.png",
+        "productCategory": "WeaponSkins",
+        "alwaysAvailable": true,
+        "tradable": false,
+        "platinumCost": 105,
+        "excludeFromMarket": true
+    },
     "/Lotus/Upgrades/Skins/Geode/CitrinePrimeHelmet": {
         "name": "/Lotus/Language/Primes/CitrinePrimeHelmetName",
         "codexSecret": false,
@@ -16253,7 +16275,7 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/SWCitrineHeliotropiaHelmet.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
-        "platinumCost": 65
+        "platinumCost": 105
     },
     "/Lotus/Upgrades/Skins/Glass/GaraAlternateSkin": {
         "name": "/Lotus/Language/Cosmetics/WarframeSkinGaraAlternateName",
@@ -29608,6 +29630,17 @@
         "tradable": false,
         "excludeFromMarket": true
     },
+    "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAdultAlbedoC": {
+        "name": "/Lotus/Language/Operator/AlbedoVName1",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Operator/AlbedoVDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Complexions/ExtraC.png",
+        "productCategory": "WeaponSkins",
+        "alwaysAvailable": true,
+        "tradable": false,
+        "excludeFromMarket": true
+    },
     "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoA": {
         "name": "/Lotus/Language/Operator/ExtraAlbedoAName",
         "codexSecret": false,
@@ -29626,6 +29659,18 @@
         "excludeFromCodex": true,
         "description": "/Lotus/Language/Operator/AlbedoVDescription",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Complexions/ExtraB.png",
+        "productCategory": "WeaponSkins",
+        "alwaysAvailable": true,
+        "tradable": false,
+        "platinumCost": 100,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Upgrades/Skins/Operator/Heads/ExtraAlbedoC": {
+        "name": "/Lotus/Language/Operator/AlbedoVName1",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Operator/AlbedoVDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Complexions/ExtraC.png",
         "productCategory": "WeaponSkins",
         "alwaysAvailable": true,
         "tradable": false,
@@ -41286,7 +41331,7 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Syandanas/SWReliquiaSyandana.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
-        "platinumCost": 100
+        "platinumCost": 105
     },
     "/Lotus/Upgrades/Skins/Scarves/SWRepalaScarf": {
         "name": "/Lotus/Language/SteamWorkshop/SWRepalaScarfName",

@@ -37800,7 +37800,7 @@
                 "rarity": "COMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GyreSystemsBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GyrePrimeSystemsBlueprint",
                 "itemCount": 1,
                 "rarity": "COMMON"
             }
@@ -37971,6 +37971,40 @@
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
                 "itemCount": 1,
                 "rarity": "COMMON"
             }
@@ -55149,27 +55183,27 @@
     "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA": [
         [
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
                 "itemCount": 1,
                 "rarity": "RARE"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
@@ -55188,12 +55222,12 @@
                 "rarity": "RARE"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
@@ -55203,7 +55237,7 @@
                 "rarity": "COMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
@@ -55217,27 +55251,27 @@
     "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC": [
         [
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+                "type": "/Lotus/StoreItems/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
                 "itemCount": 1,
                 "rarity": "RARE"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/PrimeNamiSkylaBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BurstonPrimeBlueprint",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
@@ -55256,22 +55290,22 @@
                 "rarity": "RARE"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
@@ -55290,22 +55324,22 @@
                 "rarity": "RARE"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BurstonPrimeBlueprint",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
                 "itemCount": 1,
                 "rarity": "COMMON"
             },
@@ -55319,17 +55353,17 @@
     "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF": [
         [
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
                 "itemCount": 1,
                 "rarity": "RARE"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaBlade",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },
             {
-                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
                 "itemCount": 1,
                 "rarity": "UNCOMMON"
             },

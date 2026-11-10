@@ -7549,6 +7549,42 @@
         "introducedAt": 1467987168,
         "vaultedAt": 1488321889
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCSilver": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCGold": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCPlatinum": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCBronze": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeBSilver": {
         "category": "C12",
         "era": "Axi",

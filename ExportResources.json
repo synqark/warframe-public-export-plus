@@ -10005,6 +10005,14 @@
         "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseOrokin",
         "productCategory": "MiscItems"
     },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileQuestTauNarmerThroneRoom": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothQuestTauNarmerThroneRoom",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/QuestTauNarmerThroneRoom.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
+        "productCategory": "MiscItems"
+    },
     "/Lotus/Types/Items/MiscItems/PhotoboothTileSacrificeCourtyard": {
         "name": "/Lotus/Language/CapturaScenes/PhotoboothSacrificeCourtyard",
         "description": "/Lotus/Language/CapturaScenes/PhotoboothTileUntradeableDesc",
@@ -10361,7 +10369,6 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true,
         "platinumCost": 30,
         "excludeFromMarket": true
     },
@@ -11399,6 +11406,15 @@
         "name": "/Lotus/Language/CapturaScenes/PhotoboothZarMelicaLab",
         "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/Zariman/ZarMelicaLab.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarMelicaLabTreasureRoom": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothZarMelicaLabTreasureRoom",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/Zariman/ZarMelicaLabTreasureRoom.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman",
         "productCategory": "MiscItems",
@@ -17681,8 +17697,7 @@
         "deco": "/Lotus/Objects/Tenno/Props/Plushies/PlushyValkyrDeco",
         "capacityCost": 5,
         "dojoCapacityCost": 5,
-        "platinumCost": 35,
-        "excludeFromMarket": true
+        "platinumCost": 35
     },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyVampireKavatCommon": {
         "name": "/Lotus/Language/EidolonPlains/PlushyVampireKavatCommonName",
@@ -17778,8 +17793,7 @@
         "deco": "/Lotus/Objects/Tenno/Props/Plushies/PlushyVorunaDeco",
         "capacityCost": 5,
         "dojoCapacityCost": 5,
-        "platinumCost": 35,
-        "excludeFromMarket": true
+        "platinumCost": 35
     },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyZekeHuman": {
         "name": "/Lotus/Language/ShipDecorations/PlushyZekeHumanName",
@@ -18021,6 +18035,48 @@
         "deco": "/Lotus/Objects/Tenno/Props/Ships/LandCraftPlayerProps/Props/LisetPropZARxPrpPlanterWallMountedADeco",
         "capacityCost": 5,
         "dojoCapacityCost": 5,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Movember2026MasterMustacheFrame": {
+        "name": "/Lotus/Language/ShipDecorations/Movember2026MasterMustacheName",
+        "description": "/Lotus/Language/ShipDecorations/Movember2026MasterMustacheDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026MasterMustacheFrame.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true,
+        "deco": "/Lotus/Interface/FragmentArtwork/Movember2026MasterMustacheFrameDeco",
+        "capacityCost": 5,
+        "dojoCapacityCost": 5,
+        "platinumCost": 20,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Movember2026ShopkeepMustacheFrame": {
+        "name": "/Lotus/Language/ShipDecorations/Movember2026ShopkeepMustacheName",
+        "description": "/Lotus/Language/ShipDecorations/Movember2026ShopkeepMustacheDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026ShopkeepMustacheFrame.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true,
+        "deco": "/Lotus/Interface/FragmentArtwork/Movember2026ShopkeepMustacheFrameDeco",
+        "capacityCost": 5,
+        "dojoCapacityCost": 5,
+        "platinumCost": 20,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/Items/ShipDecos/Props/Seasonal/Movember2026TuskerMustacheFrame": {
+        "name": "/Lotus/Language/ShipDecorations/Movember2026TuskerMustacheName",
+        "description": "/Lotus/Language/ShipDecorations/Movember2026TuskerMustacheDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026TuskerMustacheFrame.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true,
+        "deco": "/Lotus/Interface/FragmentArtwork/Movember2026TuskerMustacheFrameDeco",
+        "capacityCost": 5,
+        "dojoCapacityCost": 5,
+        "platinumCost": 20,
         "excludeFromMarket": true
     },
     "/Lotus/Types/Items/ShipDecos/Props/Seasonal/OrnamentDomestikDrone": {
@@ -26437,6 +26493,20 @@
         "platinumCost": 35,
         "excludeFromMarket": true
     },
+    "/Lotus/Types/Items/ShipDecos/Movember2026SiriusOrionDisplay": {
+        "name": "/Lotus/Language/ShipDecorations/Movember2026SiriusOrionName",
+        "description": "/Lotus/Language/ShipDecorations/Movember2026SiriusOrionDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026SiriusOrionDisplay.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true,
+        "deco": "/Lotus/Interface/FragmentArtwork/Movember2026SiriusOrionDisplayDeco",
+        "capacityCost": 5,
+        "dojoCapacityCost": 5,
+        "platinumCost": 15,
+        "excludeFromMarket": true
+    },
     "/Lotus/Types/Items/ShipDecos/MummyQuestVessel": {
         "name": "/Lotus/Language/Game/SpiritJarName",
         "description": "/Lotus/Language/Game/SpiritJarDesc",
@@ -28112,6 +28182,20 @@
         "productCategory": "ShipDecorations",
         "excludeFromCodex": true,
         "deco": "/Lotus/Objects/Festivities/TarotCards/TarotCardTennotober2025Deco",
+        "capacityCost": 5,
+        "dojoCapacityCost": 5,
+        "platinumCost": 15,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/Items/ShipDecos/TarotCard2026Tennotober": {
+        "name": "/Lotus/Language/Tarot/TarotCardTennotober2026Name",
+        "description": "/Lotus/Language/Tarot/TarotCardTennotober2026Desc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCard2026Tennotober.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true,
+        "deco": "/Lotus/Objects/Festivities/TarotCards/TarotCardTennotober2026Deco",
         "capacityCost": 5,
         "dojoCapacityCost": 5,
         "platinumCost": 15,
@@ -31426,6 +31510,18 @@
         "excludeFromMarket": true,
         "oneTimePurchasable": true
     },
+    "/Lotus/Types/Items/SongItems/DevourerSongItem": {
+        "name": "/Lotus/Language/Fragments/DevourerSongName",
+        "description": "/Lotus/Language/Fragments/DevourerSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/DevourerSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false,
+        "excludeFromMarket": true,
+        "oneTimePurchasable": true
+    },
     "/Lotus/Types/Items/SongItems/DreadnaughtSongItem": {
         "name": "/Lotus/Language/Fragments/DreadnaughtSongName",
         "description": "/Lotus/Language/Fragments/ShadowgrapherSongDesc",
@@ -31478,18 +31574,6 @@
         "name": "/Lotus/Language/Fragments/EmpyreanLoginSongName",
         "description": "/Lotus/Language/Fragments/EmpyreanLoginSongDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png",
-        "codexSecret": false,
-        "parentName": "/Lotus/Types/Game/SongItem",
-        "productCategory": "MiscItems",
-        "excludeFromCodex": true,
-        "showInInventory": false,
-        "excludeFromMarket": true,
-        "oneTimePurchasable": true
-    },
-    "/Lotus/Types/Items/SongItems/ErisMortemSongItem": {
-        "name": "/Lotus/Language/Fragments/ErisMortemSongName",
-        "description": "/Lotus/Language/Fragments/ErisMortemSongDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ErisMortemSongItemStoreIcon.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Game/SongItem",
         "productCategory": "MiscItems",
@@ -37070,7 +37154,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
         "productCategory": "MiscItems",
-        "primeSellingPrice": 45,
+        "primeSellingPrice": 25,
         "excludeFromMarket": true
     },
     "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver": {
@@ -39517,7 +39601,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
         "productCategory": "MiscItems",
-        "primeSellingPrice": 100,
+        "primeSellingPrice": 65,
         "excludeFromMarket": true
     },
     "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle": {

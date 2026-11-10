@@ -18284,6 +18284,34 @@
                 }
             ]
         },
+        "/Lotus/Types/Enemies/Tau/GuiltSentient/SentientGuiltBossAgent": {
+            "baseLevel": 1,
+            "avatarTypes": {
+                "STANDARD": "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystBossAvatar"
+            },
+            "items": [
+                {
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/SentientGuiltBossPowerSuit"
+                },
+                {
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystWeapon"
+                }
+            ]
+        },
+        "/Lotus/Types/Enemies/Tau/GuiltSentient/SentientGuiltBossHardModeAgent": {
+            "baseLevel": 1,
+            "avatarTypes": {
+                "STANDARD": "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystBossHardModeAvatar"
+            },
+            "items": [
+                {
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/SentientGuiltBossHardModePowerSuit"
+                },
+                {
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystWeapon"
+                }
+            ]
+        },
         "/Lotus/Types/Enemies/Tau/Monolyst/HardModeMonolystChoralystAgent": {
             "baseLevel": 1,
             "avatarTypes": {
@@ -29564,7 +29592,6 @@
             "faction": "TENNO",
             "health": 900,
             "damageController": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonHackDroneDamageController",
-            "factionResistanceKeyword": "RK_NEUTRAL",
             "killXPReward": 100,
             "codexScansRequired": 5,
             "excludeFromSimulacrum": true
@@ -40355,6 +40382,28 @@
             "factionResistanceKeyword": "RK_OROKIN_EMPIRE_FACTION",
             "killXPReward": 0,
             "codexScansRequired": 20
+        },
+        "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystBossAvatar": {
+            "name": "/Lotus/Language/TauPrequel/TauPrequelFinal/DactolystBossName",
+            "icon": "/Lotus/Interface/Icons/Npcs/Sentients/Dactolyst.png",
+            "description": "/Lotus/Language/TauPrequel/TauPrequelFinal/DactolystBossDesc",
+            "faction": "Sentient",
+            "health": 150000,
+            "damageController": "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystScaledDamageController",
+            "factionResistanceKeyword": "RK_SENTIENT_FACTION",
+            "killXPReward": 0,
+            "codexScansRequired": 1
+        },
+        "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystBossHardModeAvatar": {
+            "name": "/Lotus/Language/TauPrequel/TauPrequelFinal/DactolystHardmodeFlyingBossName",
+            "icon": "/Lotus/Interface/Icons/Npcs/Sentients/Dactolyst.png",
+            "description": "/Lotus/Language/TauPrequel/TauPrequelFinal/DactolystBossDesc",
+            "faction": "Sentient",
+            "health": 100000,
+            "damageController": "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystHardmodeDamageController",
+            "factionResistanceKeyword": "RK_SENTIENT_FACTION",
+            "killXPReward": 0,
+            "codexScansRequired": 1
         },
         "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystMeleeTrooperAvatar": {
             "name": "/Lotus/Language/Game/SentientMeleeTrooperName",
@@ -86153,6 +86202,222 @@
                 "PT_MAGNETIZED",
                 "PT_INFECTED",
                 "PT_CAUSTIC_BURN",
+                "PT_RADIANT",
+                "PT_STAGGERED",
+                "PT_BIG_STAGGER",
+                "PT_STUNNED",
+                "PT_KNOCKED_DOWN",
+                "PT_RAGDOLL"
+            ]
+        },
+        "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystHardmodeDamageController": {
+            "armor": 50,
+            "shield": 0,
+            "hitProxies": [
+                {
+                    "bone": "GAME_L1_LEG3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegLeftLower"
+                },
+                {
+                    "bone": "GAME_L1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegLeftUpper"
+                },
+                {
+                    "bone": "GAME_R1_LEG3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegRightLower"
+                },
+                {
+                    "bone": "GAME_R1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegRightUpper"
+                },
+                {
+                    "bone": "GAME_C1_SPINE1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTorso"
+                },
+                {
+                    "bone": "GAME_C1_HEAD1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystHead"
+                },
+                {
+                    "bone": "GAME_C1_TAILNEW5",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTailLower"
+                },
+                {
+                    "bone": "GAME_C1_TAILNEW9",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTailMiddle"
+                },
+                {
+                    "bone": "GAME_L1_TAILGUNGRD1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTailUpper"
+                },
+                {
+                    "bone": "GAME_L1_WINGA1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftFrontUpper"
+                },
+                {
+                    "bone": "GAME_L1_WINGA2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftFrontMiddle"
+                },
+                {
+                    "bone": "GAME_L1_WINGA3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftFrontLower"
+                },
+                {
+                    "bone": "GAME_R1_WINGA1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightFrontUpper"
+                },
+                {
+                    "bone": "GAME_R1_WINGA2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightFrontMiddle"
+                },
+                {
+                    "bone": "GAME_R1_WINGA3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightFrontLower"
+                },
+                {
+                    "bone": "GAME_L1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftBackUpper"
+                },
+                {
+                    "bone": "GAME_L1_WINGB2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftBackMiddle"
+                },
+                {
+                    "bone": "GAME_L1_WINGB3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftBackLower"
+                },
+                {
+                    "bone": "GAME_R1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightBackUpper"
+                },
+                {
+                    "bone": "GAME_R1_WINGB2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightBackMiddle"
+                },
+                {
+                    "bone": "GAME_R1_WINGB3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightBackLower"
+                },
+                {
+                    "bone": "GAME_R1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystSmallWingRightBack"
+                },
+                {
+                    "bone": "GAME_L1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystSmallWingLeftBack"
+                }
+            ],
+            "unhandledProcTypes": [
+                "PT_CHILLED",
+                "PT_RAD_TOX",
+                "PT_RADIANT",
+                "PT_STAGGERED",
+                "PT_BIG_STAGGER",
+                "PT_STUNNED",
+                "PT_KNOCKED_DOWN",
+                "PT_RAGDOLL"
+            ]
+        },
+        "/Lotus/Types/Enemies/Tau/GuiltSentient/DactolystScaledDamageController": {
+            "armor": 0,
+            "shield": 0,
+            "hitProxies": [
+                {
+                    "bone": "GAME_L1_LEG3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegLeftLower"
+                },
+                {
+                    "bone": "GAME_L1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegLeftUpper"
+                },
+                {
+                    "bone": "GAME_R1_LEG3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegRightLower"
+                },
+                {
+                    "bone": "GAME_R1_LEG2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystLegRightUpper"
+                },
+                {
+                    "bone": "GAME_C1_SPINE1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTorso"
+                },
+                {
+                    "bone": "GAME_C1_HEAD1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystHead"
+                },
+                {
+                    "bone": "GAME_C1_TAILNEW5",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTailLower"
+                },
+                {
+                    "bone": "GAME_C1_TAILNEW9",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTailMiddle"
+                },
+                {
+                    "bone": "GAME_L1_TAILGUNGRD1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystTailUpper"
+                },
+                {
+                    "bone": "GAME_L1_WINGA1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftFrontUpper"
+                },
+                {
+                    "bone": "GAME_L1_WINGA2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftFrontMiddle"
+                },
+                {
+                    "bone": "GAME_L1_WINGA3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftFrontLower"
+                },
+                {
+                    "bone": "GAME_R1_WINGA1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightFrontUpper"
+                },
+                {
+                    "bone": "GAME_R1_WINGA2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightFrontMiddle"
+                },
+                {
+                    "bone": "GAME_R1_WINGA3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightFrontLower"
+                },
+                {
+                    "bone": "GAME_L1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftBackUpper"
+                },
+                {
+                    "bone": "GAME_L1_WINGB2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftBackMiddle"
+                },
+                {
+                    "bone": "GAME_L1_WINGB3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingLeftBackLower"
+                },
+                {
+                    "bone": "GAME_R1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightBackUpper"
+                },
+                {
+                    "bone": "GAME_R1_WINGB2",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightBackMiddle"
+                },
+                {
+                    "bone": "GAME_R1_WINGB3",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystWingRightBackLower"
+                },
+                {
+                    "bone": "GAME_R1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystSmallWingRightBack"
+                },
+                {
+                    "bone": "GAME_L1_WINGB1",
+                    "type": "/Lotus/Types/Enemies/Tau/GuiltSentient/HitProxy/DactolystSmallWingLeftBack"
+                }
+            ],
+            "unhandledProcTypes": [
+                "PT_CHILLED",
+                "PT_RAD_TOX",
                 "PT_RADIANT",
                 "PT_STAGGERED",
                 "PT_BIG_STAGGER",

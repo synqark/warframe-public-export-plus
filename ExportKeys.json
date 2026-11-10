@@ -5019,6 +5019,12 @@
             {
                 "itemsToGiveWhenTriggered": []
             }
+        ],
+        "rewards": [
+            {
+                "rewardType": "RT_STORE_ITEM",
+                "itemType": "/Lotus/StoreItems/Types/Keys/TauPrologue/TauPrologueKeyChainB"
+            }
         ]
     },
     "/Lotus/Types/Keys/TauPrologue/TauPrologueAStage1Lua": {
@@ -5084,6 +5090,12 @@
                     "transmission": "/Lotus/Sounds/Dialog/RoadToTau/DPrologueTauInbox0800Lotus",
                     "highPriority": true
                 }
+            }
+        ],
+        "rewards": [
+            {
+                "rewardType": "RT_STORE_ITEM",
+                "itemType": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileQuestTauNarmerThroneRoom"
             }
         ]
     },

@@ -2614,12 +2614,10 @@
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
                         "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
-                        "CHANCE": "60",
+                        "CHANCE": "10",
                         "BONUS": {
-                            "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
-                            "sub": {
-                                "val": "+17"
-                            }
+                            "tag": "/Lotus/Language/Mods/InfiniteAmmoDesc",
+                            "sub": {}
                         },
                         "DURATION": "12"
                     }
@@ -2630,12 +2628,10 @@
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
                         "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
-                        "CHANCE": "60",
+                        "CHANCE": "20",
                         "BONUS": {
-                            "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
-                            "sub": {
-                                "val": "+34"
-                            }
+                            "tag": "/Lotus/Language/Mods/InfiniteAmmoDesc",
+                            "sub": {}
                         },
                         "DURATION": "12"
                     }
@@ -2646,12 +2642,10 @@
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
                         "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
-                        "CHANCE": "60",
+                        "CHANCE": "30",
                         "BONUS": {
-                            "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
-                            "sub": {
-                                "val": "+51"
-                            }
+                            "tag": "/Lotus/Language/Mods/InfiniteAmmoDesc",
+                            "sub": {}
                         },
                         "DURATION": "12"
                     }
@@ -2662,12 +2656,28 @@
                     "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
                     "sub": {
                         "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
-                        "CHANCE": "60",
+                        "CHANCE": "40",
                         "BONUS": {
-                            "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
-                            "sub": {
-                                "val": "+68"
-                            }
+                            "tag": "/Lotus/Language/Mods/InfiniteAmmoDesc",
+                            "sub": {}
+                        },
+                        "DURATION": "12"
+                    }
+                },
+                {
+                    "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerBonusRevive",
+                    "sub": {}
+                }
+            ],
+            [
+                {
+                    "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
+                    "sub": {
+                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
+                        "CHANCE": "50",
+                        "BONUS": {
+                            "tag": "/Lotus/Language/Mods/InfiniteAmmoDesc",
+                            "sub": {}
                         },
                         "DURATION": "12"
                     }
@@ -2684,30 +2694,8 @@
                         "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
                         "CHANCE": "60",
                         "BONUS": {
-                            "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
-                            "sub": {
-                                "val": "+85"
-                            }
-                        },
-                        "DURATION": "12"
-                    }
-                },
-                {
-                    "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerBonusRevive",
-                    "sub": {}
-                }
-            ],
-            [
-                {
-                    "tag": "/Lotus/Language/Upgrades/CosmeticEnhancerDescriptionWithDuration",
-                    "sub": {
-                        "CONDITION": "/Lotus/Language/Upgrades/OnPistolWeakPointKillCondition_Description",
-                        "CHANCE": "60",
-                        "BONUS": {
-                            "tag": "/Lotus/Language/Mods/ViperUnlimitedAmmo_desc",
-                            "sub": {
-                                "val": "+102"
-                            }
+                            "tag": "/Lotus/Language/Mods/InfiniteAmmoDesc",
+                            "sub": {}
                         },
                         "DURATION": "12"
                     }
@@ -14060,7 +14048,7 @@
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/AmpAmmoEfficiency",
                             "sub": {
-                                "val": "+12"
+                                "val": "+12.5"
                             }
                         },
                         "DURATION": "8"
@@ -14075,7 +14063,7 @@
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/AmpAmmoEfficiency",
                             "sub": {
-                                "val": "+24"
+                                "val": "+25"
                             }
                         },
                         "DURATION": "8"
@@ -14090,7 +14078,7 @@
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/AmpAmmoEfficiency",
                             "sub": {
-                                "val": "+36"
+                                "val": "+37.5"
                             }
                         },
                         "DURATION": "8"
@@ -14105,7 +14093,7 @@
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/AmpAmmoEfficiency",
                             "sub": {
-                                "val": "+48"
+                                "val": "+50"
                             }
                         },
                         "DURATION": "8"
@@ -14120,7 +14108,7 @@
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/AmpAmmoEfficiency",
                             "sub": {
-                                "val": "+60"
+                                "val": "+62.5"
                             }
                         },
                         "DURATION": "8"
@@ -14135,7 +14123,7 @@
                         "BONUS": {
                             "tag": "/Lotus/Language/Upgrades/AmpAmmoEfficiency",
                             "sub": {
-                                "val": "+72"
+                                "val": "+75"
                             }
                         },
                         "DURATION": "8"

@@ -3182,6 +3182,11 @@
                 "Rarity": "RARE"
             },
             {
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCBronze",
+                "Amount": 1,
+                "Rarity": "RARE"
+            },
+            {
                 "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeABronze",
                 "Amount": 1,
                 "Rarity": "RARE"
@@ -7687,6 +7692,11 @@
                 "Rarity": "RARE"
             },
             {
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCBronze",
+                "Amount": 1,
+                "Rarity": "RARE"
+            },
+            {
                 "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeABronze",
                 "Amount": 1,
                 "Rarity": "RARE"
@@ -7884,6 +7894,11 @@
             },
             {
                 "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeBBronze",
+                "Amount": 1,
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCBronze",
                 "Amount": 1,
                 "Rarity": "RARE"
             },

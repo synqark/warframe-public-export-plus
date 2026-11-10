@@ -7667,6 +7667,9 @@
         "contentHash": "00_hNbneijcu8UncHBCGQE6jA",
         "forumName": "Azrael112"
     },
+    "/Lotus/Interface/Icons/Player/ContentCreators/Aztecross.png": {
+        "contentHash": "00_hLRImjqicQGrmNDYAp6-wQ"
+    },
     "/Lotus/Interface/Icons/Player/ContentCreators/BBSChainWarden.png": {
         "contentHash": "00_+wtb1yqwit1nutAZaw1ovw",
         "forumName": "BBSChainWarden"
@@ -8267,6 +8270,9 @@
     },
     "/Lotus/Interface/Icons/Player/ContentCreators/Irisillych.png": {
         "contentHash": "00_EQTBlUUqRf4uxLZgoNg1Sg"
+    },
+    "/Lotus/Interface/Icons/Player/ContentCreators/Ironmouse.png": {
+        "contentHash": "00_gRaheVxjvgrkSLkSEb8G5w"
     },
     "/Lotus/Interface/Icons/Player/ContentCreators/ItsJustToe.png": {
         "contentHash": "00_OiWAtxyrpoIPNaj2w8FzaQ",
@@ -9394,7 +9400,7 @@
         "forumName": "XiaRose"
     },
     "/Lotus/Interface/Icons/Player/ContentCreators/XiaoGuang.png": {
-        "contentHash": "00_4hIo6LUlczuINmrY7H939Q"
+        "contentHash": "00_mx0V+zV+G2H90SrovggzvA"
     },
     "/Lotus/Interface/Icons/Player/ContentCreators/XxVampixx.png": {
         "contentHash": "00_iyCzy5JcO5qZNhg+qvGzlQ",
@@ -12882,10 +12888,10 @@
         "contentHash": "00_iWJ3pgmU2m3aLgywseuaKQ"
     },
     "/Lotus/Interface/Icons/Player/VesselFemaleGlyph.png": {
-        "contentHash": "00_cS4oEr62nKVac0882FBdxA"
+        "contentHash": "00_QEeMurUgU2z6H1q4iQNkYw"
     },
     "/Lotus/Interface/Icons/Player/VesselMaleGlyph.png": {
-        "contentHash": "00_esyYhvEyezD5GJL9SJx+tQ"
+        "contentHash": "00_XzHaUNl7vsLvGljwPnOqGQ"
     },
     "/Lotus/Interface/Icons/Player/VitruvianGlyphV1.png": {
         "contentHash": "00_QvNGA26Vgx4XBr9JLlD9tQ",
@@ -15073,6 +15079,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Captura/PlayerShip.png": {
         "contentHash": "00_xiv7Vb313ujmccsny81stg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/QuestTauNarmerThroneRoom.png": {
+        "contentHash": "00_LdH9MZSGUMzirMgiJIdvnQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Captura/RedVeilBlinding.png": {
         "contentHash": "00_ji7fOs7ajDS2gv5aLH00Tg"
     },
@@ -15249,6 +15258,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Captura/Zariman/ZarMelicaLab.png": {
         "contentHash": "00_V7Zd1O1MiQmj5OhprQeQFQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/Zariman/ZarMelicaLabTreasureRoom.png": {
+        "contentHash": "00_w0NLNX1EfbdZkpr6V5Wgeg"
     },
     "/Lotus/Interface/Icons/StoreIcons/Captura/Zariman/ZarParkA.png": {
         "contentHash": "00_6PzwaS9dFE4ynQ21b9b65w"
@@ -18256,6 +18268,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/BaroEvilEphemera.png": {
         "contentHash": "00_q0O4Y9Wa0Yts8RPeO5tnGw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/BaroEvilEphemeraB.png": {
+        "contentHash": "00_kZmLP2qCoiJ2hAchbOX2UA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/BaruukDeluxeIIEphemera.png": {
         "contentHash": "00_bib11PKGGYkZ1KUsPdneYg"
     },
@@ -21011,7 +21026,7 @@
         "contentHash": "00_lkNrxGBy+i-We8AEYo+OoA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/EvilBaroSugatra.png": {
-        "contentHash": "00_FVP3H3ITbwNrw4k4q0TUOg"
+        "contentHash": "00_S9Z7I5hXZAIKivGH0f5Bcg"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/ExcaliburDeluxeSugatra.png": {
         "contentHash": "00_1ihFyD1unh573I+kTmJdiQ"
@@ -27142,6 +27157,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Complexions/ExtraB.png": {
         "contentHash": "00_FgUd70bJThNUqwB6p5D4-g"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Complexions/ExtraC.png": {
+        "contentHash": "00_koiTXFt6RXoX3Pi4LOJWGA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Complexions/F.png": {
         "contentHash": "00_xE0UX+e8rWn4LFJfyOV8BA"
     },
@@ -28603,6 +28621,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Palettes/ColorPickerRollers.png": {
         "contentHash": "00_sOQh1yNdFK6A2Iklh7qANw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Palettes/ColorPickerSentientWomb.png": {
+        "contentHash": "00_AMwWA5noxR0oN2uqg4Ourw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Palettes/ColorPickerShamrock.png": {
         "contentHash": "00_baBkhU0kSIUyWES55XCveA"
     },
@@ -29265,6 +29286,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCard2025Tennotober.png": {
         "contentHash": "00_2MgNM+cPXYZS-fR-Kyg0Rg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCard2026Tennotober.png": {
+        "contentHash": "00_iXdZHX9LDMfNVU2Ui3sivQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardAsh.png": {
         "contentHash": "00_pjygxJHfVmw-jOLHosmZ-w"
@@ -32809,6 +32833,18 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/JS2HunhowStare2in1Display.png": {
         "contentHash": "00_DBxBn6SDv75PKzwAS3Wpsw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026MasterMustacheFrame.png": {
+        "contentHash": "00_mnIlPH5Nye5V5amc+6w7RQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026ShopkeepMustacheFrame.png": {
+        "contentHash": "00_r4OQp5ivY2kbGNjMY9SZXQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026SiriusOrionDisplay.png": {
+        "contentHash": "00_aR4TizYbsSY7tBRG3E4I-Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Movember2026TuskerMustacheFrame.png": {
+        "contentHash": "00_9mNbgYsrtQjp0SWKXW0qTw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Nightwave1999AmirCharacterSheetPoster.png": {
         "contentHash": "00_Ka+6a51ayFpgy-vJ4bsN4A"
     },
@@ -33796,11 +33832,11 @@
     "/Lotus/Interface/Icons/StoreIcons/SongItem/DeadlockProtocolLoginSongItemStoreIcon.png": {
         "contentHash": "00_b9LI8E85fRYZnb8r299Mxg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/DevourerSongItemStoreIcon.png": {
+        "contentHash": "00_Au0a2Dch6jiAYHpAIOOIkw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png": {
         "contentHash": "00_irpJXC2CzzQuIxBoGyhgQQ"
-    },
-    "/Lotus/Interface/Icons/StoreIcons/SongItem/ErisMortemSongItemStoreIcon.png": {
-        "contentHash": "00_Au0a2Dch6jiAYHpAIOOIkw"
     },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png": {
         "contentHash": "00_CcGtKVZ0Mfun6t78dsz++g"

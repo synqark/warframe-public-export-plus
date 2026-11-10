@@ -530,13 +530,6 @@
         "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabLootCratesChallenge.png",
         "requiredCount": 3
     },
-    "/Lotus/Types/Challenges/EntratiLab/EntratiLabNearConduitVulnerabilityChallenge": {
-        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Name",
-        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Desc",
-        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Flavor",
-        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabNearConduitVulnerabilityChallenge.png",
-        "requiredCount": 1
-    },
     "/Lotus/Types/Challenges/EntratiLab/EntratiLabRangedMechWeakpointChallenge": {
         "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Name",
         "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Desc",
@@ -3245,6 +3238,14 @@
             }
         ]
     },
+    "/Lotus/Types/Challenges/Titles/CitrinePrimeTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/CitrinePrimeTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Titles/ClemTitleChallenge": {
         "countedRewards": [
             {
@@ -3733,6 +3734,14 @@
         "countedRewards": [
             {
                 "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/RailjackGarudaTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/RoadToTauChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/RoadToTauTitle",
                 "ItemCount": 1
             }
         ]

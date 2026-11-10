@@ -16755,7 +16755,7 @@
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVHydroidPrimeSinglePack": {
         "name": "/Lotus/Language/PrimeStore/MPVHydroidPrimeVaultName",
         "description": "/Lotus/Language/PrimeStore/MPVHydroidPrimeVaultDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Hydroid.png",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Hydroid2.png",
         "components": [
             {
                 "typeName": "/Lotus/StoreItems/Powersuits/Pirate/HydroidPrime",
@@ -18014,8 +18014,8 @@
         ]
     },
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNavicPrimeSentAccessories": {
-        "name": "/Lotus/Language/PrimePacks/MPVHeimtPrimeSentinelName",
-        "description": "/Lotus/Language/PrimePacks/MPVHeimtPrimeSentinelDesc",
+        "name": "/Lotus/Language/PrimePacks/MPVNavicPrimeSentinelName",
+        "description": "/Lotus/Language/PrimePacks/MPVNavicPrimeSentinelDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/PrimeVault/NautilusPrimeAccessories.png",
         "excludeFromCodex": true,
         "components": [
@@ -19269,9 +19269,9 @@
         ]
     },
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSevagothHydroidPrimeDualPack": {
-        "name": "/Lotus/Language/PrimePacks/MPVSevagothSinglePackName",
-        "description": "/Lotus/Language/PrimePacks/MPVSevagothSinglePackDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png",
+        "name": "/Lotus/Language/PrimePacks/MPVSevagothHydroidDualPackName",
+        "description": "/Lotus/Language/PrimePacks/MPVSevagothHydroidDualPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/SevagothHydroidDuoPack.png",
         "components": [
             {
                 "typeName": "/Lotus/StoreItems/Powersuits/Wraith/SevagothPrime",
@@ -19287,6 +19287,10 @@
             },
             {
                 "typeName": "/Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/NautilusPrimeSentinelPowerSuit",
                 "purchaseQuantity": 1
             },
             {
@@ -19332,9 +19336,9 @@
         ]
     },
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVSevagothPrimeSinglePack": {
-        "name": "/Lotus/Language/PrimePacks/MPVSevagothHydroidDualPackName",
-        "description": "/Lotus/Language/PrimePacks/MPVSevagothHydroidDualPackDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png",
+        "name": "/Lotus/Language/PrimePacks/MPVSevagothSinglePackName",
+        "description": "/Lotus/Language/PrimePacks/MPVSevagothSinglePackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Sevagoth.png",
         "components": [
             {
                 "typeName": "/Lotus/StoreItems/Powersuits/Wraith/SevagothPrime",
@@ -19353,11 +19357,19 @@
                 "purchaseQuantity": 1
             },
             {
+                "typeName": "/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/NautilusPrimeSentinelPowerSuit",
+                "purchaseQuantity": 1
+            },
+            {
                 "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/PrimeSevagothHaloCrown",
                 "purchaseQuantity": 1
             },
             {
                 "typeName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/MPVNavicPrimeSentAccessories",
+                "purchaseQuantity": 1
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/MPVSinglePackFusionBundle",
                 "purchaseQuantity": 1
             }
         ]

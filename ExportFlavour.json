@@ -3864,7 +3864,7 @@
         "titleTag": "/Lotus/Language/Titles/FrostTitle"
     },
     "/Lotus/Types/Items/Titles/RoatheTitles/FrumentariusTitle": {
-        "name": "/Lotus/Language/Titles/Frumentarius_MarketTitle",
+        "name": "/Lotus/Language/Titles/FrumentariusTitle_MarketTitle",
         "description": "/Lotus/Language/Titles/GenericTitle_MarketDescription",
         "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/GenericHonoriaIcon.png",
         "base": "/Lotus/Types/Items/TitleItem",
@@ -6739,6 +6739,15 @@
         "platinumCost": 20,
         "excludeFromMarket": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAztecross": {
+        "name": "/Lotus/Language/Glyphs/AztecrossName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ContentCreators/Aztecross.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true,
+        "platinumCost": 20,
+        "excludeFromMarket": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBBSChainWarden": {
         "name": "/Lotus/Language/Glyphs/BBSChainWardenGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -8203,6 +8212,15 @@
         "name": "/Lotus/Language/Glyphs/IrisillychName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/ContentCreators/Irisillych.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true,
+        "platinumCost": 20,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIronmouse": {
+        "name": "/Lotus/Language/Glyphs/IronmouseName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ContentCreators/Ironmouse.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
         "platinumCost": 20,
@@ -13228,8 +13246,7 @@
         "icon": "/Lotus/Interface/Icons/Player/CommunityCitrine.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
-        "platinumCost": 20,
-        "excludeFromMarket": true
+        "platinumCost": 20
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityClemComic": {
         "name": "/Lotus/Language/Glyphs/CommunityClemComicGlyphName",
@@ -13278,8 +13295,7 @@
         "icon": "/Lotus/Interface/Icons/Player/CommunityFrost.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
-        "platinumCost": 20,
-        "excludeFromMarket": true
+        "platinumCost": 20
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGaruda": {
         "name": "/Lotus/Language/Glyphs/CommunityGarudaGlyphName",
@@ -13378,8 +13394,7 @@
         "icon": "/Lotus/Interface/Icons/Player/CommunityNarin.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
-        "platinumCost": 20,
-        "excludeFromMarket": true
+        "platinumCost": 20
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityNokkoGlyph": {
         "name": "/Lotus/Language/Glyphs/CommunityNokkoGlyphName",
@@ -13396,8 +13411,7 @@
         "icon": "/Lotus/Interface/Icons/Player/CommunityOctavia.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
-        "platinumCost": 20,
-        "excludeFromMarket": true
+        "platinumCost": 20
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityQorvex": {
         "name": "/Lotus/Language/Glyphs/CommunityQorvexGlyphName",
@@ -13429,8 +13443,7 @@
         "icon": "/Lotus/Interface/Icons/Player/CommunitySevagoth.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
-        "platinumCost": 20,
-        "excludeFromMarket": true
+        "platinumCost": 20
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityStyanax": {
         "name": "/Lotus/Language/Glyphs/CommunityStyanaxGlyphName",
@@ -41349,6 +41362,287 @@
             }
         ],
         "platinumCost": 75
+    },
+    "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerSentientWomb": {
+        "name": "/Lotus/Language/Cosmetics/ColourPickerSentientWombName",
+        "description": "/Lotus/Language/Cosmetics/ColourPickerSentientWombDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Palettes/ColorPickerSentientWomb.png",
+        "base": "/Lotus/Types/Items/ColorPickerItem",
+        "codexSecret": true,
+        "hexColours": [
+            {
+                "value": "0x00305D72"
+            },
+            {
+                "value": "0x0033647A"
+            },
+            {
+                "value": "0x00376A82"
+            },
+            {
+                "value": "0x003A708A"
+            },
+            {
+                "value": "0x003D7791"
+            },
+            {
+                "value": "0x00407D99"
+            },
+            {
+                "value": "0x004383A1"
+            },
+            {
+                "value": "0x004789A8"
+            },
+            {
+                "value": "0x004A90B0"
+            },
+            {
+                "value": "0x004D96B8"
+            },
+            {
+                "value": "0x00509CBF"
+            },
+            {
+                "value": "0x0054A2C7"
+            },
+            {
+                "value": "0x0057A9CF"
+            },
+            {
+                "value": "0x005AAFD6"
+            },
+            {
+                "value": "0x005DB5DE"
+            },
+            {
+                "value": "0x0060BBE6"
+            },
+            {
+                "value": "0x0064C2ED"
+            },
+            {
+                "value": "0x0067C8F5"
+            },
+            {
+                "value": "0x006ACEFC"
+            },
+            {
+                "value": "0x0072D0FC"
+            },
+            {
+                "value": "0x002F6872"
+            },
+            {
+                "value": "0x0032707A"
+            },
+            {
+                "value": "0x00357782"
+            },
+            {
+                "value": "0x00387E8A"
+            },
+            {
+                "value": "0x003C8491"
+            },
+            {
+                "value": "0x003F8B99"
+            },
+            {
+                "value": "0x004292A1"
+            },
+            {
+                "value": "0x004599A8"
+            },
+            {
+                "value": "0x0048A0B0"
+            },
+            {
+                "value": "0x004BA7B8"
+            },
+            {
+                "value": "0x004EAEBF"
+            },
+            {
+                "value": "0x0052B5C7"
+            },
+            {
+                "value": "0x0055BCCF"
+            },
+            {
+                "value": "0x0058C3D6"
+            },
+            {
+                "value": "0x005BCADE"
+            },
+            {
+                "value": "0x005ED1E6"
+            },
+            {
+                "value": "0x0061D8ED"
+            },
+            {
+                "value": "0x0064DFF5"
+            },
+            {
+                "value": "0x0068E6FC"
+            },
+            {
+                "value": "0x006FE7FC"
+            },
+            {
+                "value": "0x007898AE"
+            },
+            {
+                "value": "0x007296AD"
+            },
+            {
+                "value": "0x006D94AD"
+            },
+            {
+                "value": "0x006892AD"
+            },
+            {
+                "value": "0x006390AD"
+            },
+            {
+                "value": "0x005E8DAD"
+            },
+            {
+                "value": "0x00588BAD"
+            },
+            {
+                "value": "0x005389AD"
+            },
+            {
+                "value": "0x004E87AD"
+            },
+            {
+                "value": "0x004985AD"
+            },
+            {
+                "value": "0x004483AD"
+            },
+            {
+                "value": "0x003E81AD"
+            },
+            {
+                "value": "0x00397FAD"
+            },
+            {
+                "value": "0x00347DAD"
+            },
+            {
+                "value": "0x002F7BAD"
+            },
+            {
+                "value": "0x002A79AD"
+            },
+            {
+                "value": "0x002477AD"
+            },
+            {
+                "value": "0x001F75AD"
+            },
+            {
+                "value": "0x001A72AD"
+            },
+            {
+                "value": "0x001570AD"
+            },
+            {
+                "value": "0x00A29E98"
+            },
+            {
+                "value": "0x00A39D95"
+            },
+            {
+                "value": "0x00A39B90"
+            },
+            {
+                "value": "0x00A3998B"
+            },
+            {
+                "value": "0x00A39786"
+            },
+            {
+                "value": "0x00A39581"
+            },
+            {
+                "value": "0x00A3947C"
+            },
+            {
+                "value": "0x00A39277"
+            },
+            {
+                "value": "0x00A39072"
+            },
+            {
+                "value": "0x00A38E6D"
+            },
+            {
+                "value": "0x00A38C68"
+            },
+            {
+                "value": "0x00A38A64"
+            },
+            {
+                "value": "0x00A3885F"
+            },
+            {
+                "value": "0x00A3865A"
+            },
+            {
+                "value": "0x00A38455"
+            },
+            {
+                "value": "0x00A38250"
+            },
+            {
+                "value": "0x00A3804B"
+            },
+            {
+                "value": "0x00A37E46"
+            },
+            {
+                "value": "0x00A37C41"
+            },
+            {
+                "value": "0x00A37A3C"
+            },
+            {
+                "value": "0x00EDEDED"
+            },
+            {
+                "value": "0x00E6E6E6"
+            },
+            {
+                "value": "0x00DEDEDE"
+            },
+            {
+                "value": "0x00D6D6D6"
+            },
+            {
+                "value": "0x00CFCFCF"
+            },
+            {
+                "value": "0x00C7C7C7"
+            },
+            {
+                "value": "0x00BFBFBF"
+            },
+            {
+                "value": "0x00B8B8B8"
+            },
+            {
+                "value": "0x00B0B0B0"
+            },
+            {
+                "value": "0x00A8A8A8"
+            }
+        ],
+        "platinumCost": 75,
+        "excludeFromMarket": true
     },
     "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerShamrockItem": {
         "name": "/Lotus/Language/Items/ShamrockColourPickerName",

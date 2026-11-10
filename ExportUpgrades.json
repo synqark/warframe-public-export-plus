@@ -6278,7 +6278,6 @@
         "compat": "/Lotus/Weapons/Tenno/Rifle/LotusRifle",
         "compatName": "Rifle",
         "type": "PRIMARY",
-        "isFrivolous": true,
         "tradable": true,
         "introducedAt": 1744902261
     },
@@ -6616,7 +6615,8 @@
         "compat": "/Lotus/Weapons/Lasria/LasGooAK/LasGooAKPlayerWeapon",
         "compatName": "EFV-5 Jupiter",
         "type": "PRIMARY",
-        "tradable": true
+        "tradable": true,
+        "introducedAt": 1786546800
     },
     "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveHemaAugmentMod": {
         "name": "/Lotus/Language/Mods/NightwaveHemaAugmentModName",
@@ -9921,7 +9921,6 @@
         "compat": "/Lotus/Weapons/Tenno/Pistol/LotusPistol",
         "compatName": "Pistol",
         "type": "SECONDARY",
-        "isFrivolous": true,
         "tradable": true
     },
     "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageMurmursExpert": {
@@ -10268,7 +10267,8 @@
         "compat": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon",
         "compatName": "EFV-8 Mars",
         "type": "SECONDARY",
-        "tradable": true
+        "tradable": true,
+        "introducedAt": 1786546800
     },
     "/Lotus/Upgrades/Mods/Pistol/Event/Nightwave/NightwaveCatabolystAugmentMod": {
         "name": "/Lotus/Language/Mods/NightwaveCatabolystAugmentModName",
@@ -20539,7 +20539,8 @@
         "excludeFromCodex": true,
         "compatName": "Archgun",
         "type": "ARCH-GUN",
-        "tradable": true
+        "tradable": true,
+        "introducedAt": 1787177125
     },
     "/Lotus/Upgrades/Mods/Hoverboard/HBFireWorksMod": {
         "name": "/Lotus/Language/Hoverboards/HoverboardFireworksMod",
@@ -21819,6 +21820,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21832,6 +21840,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -21845,6 +21854,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0089,
@@ -21858,6 +21868,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -21871,6 +21882,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -21884,6 +21896,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.00667,
@@ -21897,6 +21910,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -21910,6 +21924,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21923,6 +21944,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -21936,6 +21958,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21949,6 +21978,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0067,
@@ -21962,6 +21992,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -21975,6 +22006,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -21988,6 +22020,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0067,
@@ -22001,6 +22034,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -22014,6 +22048,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0067,
@@ -22027,6 +22062,7 @@
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -22040,6 +22076,7 @@
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -22053,6 +22090,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -22066,6 +22104,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22079,6 +22118,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22092,6 +22132,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22105,6 +22146,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.006666,
@@ -22118,6 +22160,7 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.025,
@@ -22131,6 +22174,7 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointCriticalSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.0275,
@@ -22144,11 +22188,11 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "value": -0.005,
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -22158,6 +22202,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22171,6 +22216,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GasSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22184,6 +22230,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22197,6 +22244,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22210,6 +22258,7 @@
                 "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22223,6 +22272,7 @@
                 "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22236,6 +22286,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22249,6 +22300,7 @@
                 "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22262,6 +22314,7 @@
                 "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22275,12 +22328,95 @@
                 "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
                         "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
                     }
                 ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponClipMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponRecoilReductionMod",
+                "secondaryIngredient": "WeaponAmmoMaxMod"
+            },
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponFactionDamageGrineer",
+                "secondaryIngredient": "WeaponFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponFactionDamageCorpus",
+                "secondaryIngredient": "WeaponFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponFactionDamageInfested",
+                "secondaryIngredient": "WeaponFactionDamageGrineer"
             }
         ],
         "availableChallenges": [
@@ -22417,6 +22553,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0183,
@@ -22430,6 +22567,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -22443,6 +22587,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -22456,6 +22607,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -22469,6 +22627,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.02,
@@ -22485,6 +22644,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22498,6 +22658,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22511,6 +22672,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22524,6 +22686,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22537,6 +22700,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22550,6 +22714,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -22563,6 +22728,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22576,6 +22742,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22589,6 +22756,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22602,6 +22770,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0061,
@@ -22615,6 +22784,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22628,6 +22798,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ComboDurationSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.09,
@@ -22641,6 +22818,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlideCritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013334,
@@ -22657,6 +22841,7 @@
                 "suffixTag": "/Lotus/Language/Omega/AttackRangeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.02158,
@@ -22670,6 +22855,13 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeFinisherDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -22683,6 +22875,13 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboHeavyEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.00816,
@@ -22696,6 +22895,10 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboInitialBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.27224,
@@ -22709,6 +22912,10 @@
                 "suffixTag": "",
                 "canBeBuff": false,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": -0.01165,
@@ -22723,12 +22930,281 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.00653,
                         "locTag": "/Lotus/Language/Upgrades/MeleeComboGainExtraChance"
                     }
                 ]
+            },
+            {
+                "tag": "WeaponMeleeHeavyAttackDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.0133,
+                        "locTag": "/Lotus/Language/Upgrades/MeleeDamageBuffOnHeavyDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeHeavyAttackChargeMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.0133,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponHeavyChargeSpeed"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeParryAngleMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.009,
+                        "locTag": "/Lotus/Language/Upgrades/ParryAngleNoPercentModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeSlamDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.0133,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMeleeSlamDmgBonusModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponGasDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/GasPrefix",
+                "suffixTag": "/Lotus/Language/Omega/GasSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponGasDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponCorrosiveDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/CorrosivePrefix",
+                "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponCorrosiveDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponViralDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/ViralPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponViralDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponRadiationDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/RadiationPrefix",
+                "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponRadiationDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponBlastDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/BlastPrefix",
+                "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponExplosionDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagneticDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MagneticPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMagneticDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageOrokin",
+                "prefixTag": "/Lotus/Language/Omega/OrokinDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageCorruptedDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageTechrot",
+                "prefixTag": "/Lotus/Language/Omega/TechrotDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageTechrotDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageScaldra",
+                "prefixTag": "/Lotus/Language/Omega/ScaldraDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponStatusDamage",
+                "prefixTag": "/Lotus/Language/Omega/StatusDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponStatusDamage"
+                    }
+                ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponMeleeDamageMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponMeleeFactionDamageGrineer",
+                "secondaryIngredient": "WeaponMeleeFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponMeleeFactionDamageCorpus",
+                "secondaryIngredient": "WeaponMeleeFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponMeleeFactionDamageInfested",
+                "secondaryIngredient": "WeaponMeleeFactionDamageGrineer"
+            },
+            {
+                "resultTag": "WeaponMeleeHeavyAttackDamageMod",
+                "primaryIngredient": "WeaponMeleeComboEfficiencyMod",
+                "secondaryIngredient": "WeaponMeleeComboBonusOnHitMod"
+            },
+            {
+                "resultTag": "WeaponMeleeHeavyAttackChargeMod",
+                "primaryIngredient": "WeaponMeleeComboEfficiencyMod",
+                "secondaryIngredient": "ComboDurationMod"
+            },
+            {
+                "resultTag": "WeaponMeleeParryAngleMod",
+                "primaryIngredient": "WeaponFireRateMod",
+                "secondaryIngredient": "WeaponMeleeRangeIncMod"
+            },
+            {
+                "resultTag": "WeaponMeleeSlamDamageMod",
+                "primaryIngredient": "WeaponMeleeDamageMod",
+                "secondaryIngredient": "WeaponFireRateMod"
             }
         ],
         "availableChallenges": [
@@ -24032,6 +24508,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -24045,6 +24528,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.016666,
@@ -24058,6 +24542,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24071,6 +24556,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24084,6 +24570,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24097,6 +24584,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0083,
@@ -24110,6 +24598,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24123,6 +24612,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -24136,6 +24632,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -24149,6 +24646,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -24162,6 +24666,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24175,6 +24680,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24188,6 +24694,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24201,6 +24708,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -24214,6 +24722,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0244,
@@ -24227,6 +24736,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -24240,6 +24750,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24253,6 +24764,7 @@
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -24266,6 +24778,7 @@
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -24279,6 +24792,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -24292,6 +24806,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -24305,6 +24820,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -24318,6 +24834,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -24331,12 +24848,301 @@
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0089,
                         "locTag": "/Lotus/Language/Upgrades/WeaponZoomModDesc"
                     }
                 ]
+            },
+            {
+                "tag": "WeaponWeakpointDamage",
+                "prefixTag": "/Lotus/Language/Omega/WeakpointPrefix",
+                "suffixTag": "/Lotus/Language/Omega/WeakpointSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.025,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponWeakpointCriticalChance",
+                "prefixTag": "/Lotus/Language/Omega/WeakpointCriticalPrefix",
+                "suffixTag": "/Lotus/Language/Omega/WeakpointCriticalSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.0275,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointCriticalChance"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponAmmoEfficiency",
+                "prefixTag": "/Lotus/Language/Omega/AmmoEfficiencyPrefix",
+                "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": -0.005,
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagazineReloadHolstered",
+                "prefixTag": "/Lotus/Language/Omega/AmmoEfficiencyPrefix",
+                "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponHolsteredAutoReloadRate"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponStatusDamage",
+                "prefixTag": "/Lotus/Language/Omega/StatusDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponStatusDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponGasDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/GasPrefix",
+                "suffixTag": "/Lotus/Language/Omega/GasSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponGasDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponCorrosiveDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/CorrosivePrefix",
+                "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponCorrosiveDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponViralDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/ViralPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponViralDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponRadiationDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/RadiationPrefix",
+                "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponRadiationDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponBlastDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/BlastPrefix",
+                "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponExplosionDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagneticDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MagneticPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMagneticDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageOrokin",
+                "prefixTag": "/Lotus/Language/Omega/OrokinDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageCorruptedDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageTechrot",
+                "prefixTag": "/Lotus/Language/Omega/TechrotDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageTechrotDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageScaldra",
+                "prefixTag": "/Lotus/Language/Omega/ScaldraDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
+                    }
+                ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponClipMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponRecoilReductionMod",
+                "secondaryIngredient": "WeaponAmmoMaxMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponClipMaxMod"
+            },
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponFactionDamageGrineer",
+                "secondaryIngredient": "WeaponFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponFactionDamageCorpus",
+                "secondaryIngredient": "WeaponFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponFactionDamageInfested",
+                "secondaryIngredient": "WeaponFactionDamageGrineer"
             }
         ],
         "availableChallenges": [
@@ -25635,6 +26441,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -25648,6 +26461,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.016666,
@@ -25661,6 +26475,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25674,6 +26489,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25687,6 +26503,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25700,6 +26517,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0083,
@@ -25713,6 +26531,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25726,6 +26545,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -25739,6 +26565,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -25752,6 +26579,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -25765,6 +26599,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25778,6 +26613,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25791,6 +26627,15 @@
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel",
+                    "NotGrimoire"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel",
+                    "NotGrimoire"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25804,6 +26649,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotGrimoire"
+                ],
+                "curseRestrictions": [
+                    "NotGrimoire"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -25817,6 +26669,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0244,
@@ -25830,6 +26683,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -25843,6 +26697,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25856,6 +26711,7 @@
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -25869,6 +26725,13 @@
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -25882,6 +26745,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotGrimoire"
+                ],
+                "curseRestrictions": [
+                    "NotGrimoire"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -25895,6 +26765,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25908,6 +26779,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25921,6 +26793,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25934,6 +26807,15 @@
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel",
+                    "NotGrimoire"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel",
+                    "NotGrimoire"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0089,
@@ -25947,9 +26829,10 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": 0.01,
+                        "value": 0.025,
                         "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointDamage"
                     }
                 ]
@@ -25960,9 +26843,10 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointCriticalSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": 0.01,
+                        "value": 0.0275,
                         "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointCriticalChance"
                     }
                 ]
@@ -25973,11 +26857,11 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "value": -0.005,
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -25987,6 +26871,7 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26000,6 +26885,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26013,6 +26899,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GasSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26026,6 +26913,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26039,6 +26927,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26052,6 +26941,7 @@
                 "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26065,6 +26955,7 @@
                 "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26078,6 +26969,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -26091,6 +26983,7 @@
                 "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -26104,6 +26997,7 @@
                 "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -26117,12 +27011,105 @@
                 "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
                         "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
                     }
                 ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponClipMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponRecoilReductionMod",
+                "secondaryIngredient": "WeaponAmmoMaxMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponClipMaxMod"
+            },
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponFactionDamageGrineer",
+                "secondaryIngredient": "WeaponFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponFactionDamageCorpus",
+                "secondaryIngredient": "WeaponFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponFactionDamageInfested",
+                "secondaryIngredient": "WeaponFactionDamageGrineer"
             }
         ],
         "availableChallenges": [
@@ -27509,6 +28496,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -27522,6 +28516,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.016666,
@@ -27535,6 +28530,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -27548,6 +28544,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27561,6 +28558,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27574,6 +28572,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.00667,
@@ -27590,6 +28589,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27603,6 +28603,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -27616,6 +28623,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -27629,6 +28637,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -27642,6 +28657,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27655,6 +28671,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27668,6 +28685,13 @@
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.00555,
@@ -27681,6 +28705,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -27694,6 +28719,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.018333,
@@ -27707,6 +28733,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27720,6 +28747,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27733,6 +28761,7 @@
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -27746,6 +28775,13 @@
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -27759,6 +28795,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -27772,6 +28809,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -27785,6 +28823,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -27798,6 +28837,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -27811,6 +28851,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.006666,
@@ -27824,6 +28871,7 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.025,
@@ -27837,6 +28885,7 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointCriticalSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.0275,
@@ -27850,11 +28899,11 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "value": -0.005,
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -27864,6 +28913,7 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27877,6 +28927,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27890,6 +28941,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GasSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27903,6 +28955,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27916,6 +28969,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27929,6 +28983,7 @@
                 "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27942,6 +28997,7 @@
                 "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27955,6 +29011,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -27968,6 +29025,7 @@
                 "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -27981,6 +29039,7 @@
                 "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -27994,12 +29053,105 @@
                 "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
                         "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
                     }
                 ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponClipMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponRecoilReductionMod",
+                "secondaryIngredient": "WeaponAmmoMaxMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponClipMaxMod"
+            },
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponFactionDamageGrineer",
+                "secondaryIngredient": "WeaponFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponFactionDamageCorpus",
+                "secondaryIngredient": "WeaponFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponFactionDamageInfested",
+                "secondaryIngredient": "WeaponFactionDamageGrineer"
             }
         ],
         "availableChallenges": [
@@ -29397,6 +30549,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -29410,6 +30569,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29423,6 +30583,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29436,6 +30597,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29449,6 +30611,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29462,6 +30625,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29478,6 +30642,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29491,6 +30656,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -29504,6 +30676,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -29517,6 +30690,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -29530,6 +30710,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29543,6 +30724,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29556,6 +30738,13 @@
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29569,6 +30758,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -29582,6 +30772,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0183,
@@ -29595,6 +30786,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -29608,6 +30800,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29621,6 +30814,7 @@
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -29634,6 +30828,13 @@
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -29647,6 +30848,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -29660,6 +30862,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -29673,6 +30876,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -29686,6 +30890,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -29699,6 +30904,7 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.025,
@@ -29712,6 +30918,7 @@
                 "suffixTag": "/Lotus/Language/Omega/WeakpointCriticalSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.0275,
@@ -29725,11 +30932,11 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "value": -0.005,
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -29739,6 +30946,7 @@
                 "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29752,6 +30960,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29765,6 +30974,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GasSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29778,6 +30988,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29791,6 +31002,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29804,6 +31016,7 @@
                 "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29817,6 +31030,7 @@
                 "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29830,6 +31044,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -29843,6 +31058,7 @@
                 "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -29856,6 +31072,7 @@
                 "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -29869,12 +31086,125 @@
                 "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
                         "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
                     }
                 ]
+            },
+            {
+                "tag": "WeaponZoomFovMod",
+                "prefixTag": "/Lotus/Language/Omega/ZoomPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
+                "upgradeValues": [
+                    {
+                        "value": 0.004666,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponZoomModDesc"
+                    }
+                ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponZoomFovMod"
+            },
+            {
+                "resultTag": "WeaponWeakpointCriticalChance",
+                "primaryIngredient": "WeaponCritChanceMod",
+                "secondaryIngredient": "WeaponFireIterationsMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponClipMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponAmmoEfficiency",
+                "primaryIngredient": "WeaponRecoilReductionMod",
+                "secondaryIngredient": "WeaponAmmoMaxMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponReloadSpeedMod"
+            },
+            {
+                "resultTag": "WeaponMagazineReloadHolstered",
+                "primaryIngredient": "WeaponAmmoMaxMod",
+                "secondaryIngredient": "WeaponClipMaxMod"
+            },
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponDamageAmountMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponFactionDamageGrineer",
+                "secondaryIngredient": "WeaponFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponFactionDamageCorpus",
+                "secondaryIngredient": "WeaponFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponFactionDamageInfested",
+                "secondaryIngredient": "WeaponFactionDamageGrineer"
             }
         ],
         "availableChallenges": [
@@ -31152,6 +32482,7 @@
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0183,
@@ -31165,6 +32496,13 @@
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -31181,6 +32519,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -31197,6 +32542,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "DamageTypes"
+                ],
+                "curseRestrictions": [
+                    "DamageTypes"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -31213,6 +32565,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.02,
@@ -31229,6 +32582,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -31242,6 +32596,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -31255,6 +32610,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -31268,6 +32624,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -31281,6 +32638,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -31294,6 +32652,7 @@
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -31307,6 +32666,7 @@
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -31320,6 +32680,7 @@
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -31333,6 +32694,7 @@
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -31346,6 +32708,7 @@
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.0061,
@@ -31359,6 +32722,7 @@
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -31372,6 +32736,13 @@
                 "suffixTag": "/Lotus/Language/Omega/ComboDurationSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.09,
@@ -31385,6 +32756,13 @@
                 "suffixTag": "/Lotus/Language/Omega/SlideCritChanceSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.013334,
@@ -31401,6 +32779,7 @@
                 "suffixTag": "/Lotus/Language/Omega/AttackRangeSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.02158,
@@ -31414,6 +32793,13 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeFinisherDamageSuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -31427,6 +32813,13 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboHeavyEfficiencySuffix",
                 "canBeBuff": true,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.00816,
@@ -31440,6 +32833,10 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboInitialBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
+                "buffRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": 0.27224,
@@ -31453,6 +32850,10 @@
                 "suffixTag": "",
                 "canBeBuff": false,
                 "canBeCurse": true,
+                "isAdvancedTrait": false,
+                "curseRestrictions": [
+                    "NotSentinel"
+                ],
                 "upgradeValues": [
                     {
                         "value": -0.01165,
@@ -31467,6 +32868,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": false,
                 "upgradeValues": [
                     {
                         "value": 0.00653,
@@ -31480,6 +32882,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -31493,6 +32896,7 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -31506,9 +32910,10 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
-                        "value": 0.09,
+                        "value": 0.009,
                         "locTag": "/Lotus/Language/Upgrades/ParryAngleNoPercentModDesc"
                     }
                 ]
@@ -31519,12 +32924,225 @@
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
                 "canBeBuff": true,
                 "canBeCurse": false,
+                "isAdvancedTrait": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
                         "locTag": "/Lotus/Language/Upgrades/WeaponMeleeSlamDmgBonusModDesc"
                     }
                 ]
+            },
+            {
+                "tag": "WeaponGasDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/GasPrefix",
+                "suffixTag": "/Lotus/Language/Omega/GasSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponGasDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponCorrosiveDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/CorrosivePrefix",
+                "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponCorrosiveDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponViralDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/ViralPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponViralDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponRadiationDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/RadiationPrefix",
+                "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponRadiationDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponBlastDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/BlastPrefix",
+                "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponExplosionDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagneticDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MagneticPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMagneticDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageOrokin",
+                "prefixTag": "/Lotus/Language/Omega/OrokinDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageCorruptedDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageTechrot",
+                "prefixTag": "/Lotus/Language/Omega/TechrotDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageTechrotDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageScaldra",
+                "prefixTag": "/Lotus/Language/Omega/ScaldraDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponStatusDamage",
+                "prefixTag": "/Lotus/Language/Omega/StatusDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "isAdvancedTrait": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponStatusDamage"
+                    }
+                ]
+            }
+        ],
+        "mergeOptions": [
+            {
+                "resultTag": "WeaponStatusDamage",
+                "primaryIngredient": "WeaponMeleeDamageMod",
+                "secondaryIngredient": "WeaponStunChanceMod"
+            },
+            {
+                "resultTag": "WeaponGasDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFireDamageMod"
+            },
+            {
+                "resultTag": "WeaponCorrosiveDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponViralDamageMod",
+                "primaryIngredient": "WeaponToxinDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponRadiationDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponElectricityDamageMod"
+            },
+            {
+                "resultTag": "WeaponBlastDamageMod",
+                "primaryIngredient": "WeaponFireDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponMagneticDamageMod",
+                "primaryIngredient": "WeaponElectricityDamageMod",
+                "secondaryIngredient": "WeaponFreezeDamageMod"
+            },
+            {
+                "resultTag": "WeaponFactionDamageOrokin",
+                "primaryIngredient": "WeaponMeleeFactionDamageGrineer",
+                "secondaryIngredient": "WeaponMeleeFactionDamageCorpus"
+            },
+            {
+                "resultTag": "WeaponFactionDamageTechrot",
+                "primaryIngredient": "WeaponMeleeFactionDamageCorpus",
+                "secondaryIngredient": "WeaponMeleeFactionDamageInfested"
+            },
+            {
+                "resultTag": "WeaponFactionDamageScaldra",
+                "primaryIngredient": "WeaponMeleeFactionDamageInfested",
+                "secondaryIngredient": "WeaponMeleeFactionDamageGrineer"
+            },
+            {
+                "resultTag": "WeaponMeleeHeavyAttackDamageMod",
+                "primaryIngredient": "WeaponMeleeComboEfficiencyMod",
+                "secondaryIngredient": "WeaponMeleeComboBonusOnHitMod"
+            },
+            {
+                "resultTag": "WeaponMeleeHeavyAttackChargeMod",
+                "primaryIngredient": "WeaponMeleeComboEfficiencyMod",
+                "secondaryIngredient": "ComboDurationMod"
+            },
+            {
+                "resultTag": "WeaponMeleeParryAngleMod",
+                "primaryIngredient": "WeaponFireRateMod",
+                "secondaryIngredient": "WeaponMeleeRangeIncMod"
+            },
+            {
+                "resultTag": "WeaponMeleeSlamDamageMod",
+                "primaryIngredient": "WeaponMeleeDamageMod",
+                "secondaryIngredient": "WeaponFireRateMod"
             }
         ],
         "availableChallenges": [
