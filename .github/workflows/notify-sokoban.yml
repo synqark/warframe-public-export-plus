@@ -1,0 +1,42 @@
+name: Notify cephalon-sokoban
+
+# senpai の更新を synqark/cephalon-sokoban の wfpp-sync.yml へ知らせる（repository_dispatch）。
+# 取り込み・判定・デプロイはすべて向こう側で行い、ここは通知だけを担う。
+# 向こうは毎回 senpai の HEAD を取り直すので、client_payload の sha はログ用。
+#
+# Secret: SOKOBAN_GEN_TOKEN … fine-grained PAT（対象 synqark/cephalon-sokoban、Contents: Read and write）
+#
+# 手動実行（workflow_dispatch）は既定で wfpp-senpai-ping を送る。向こうはこのイベントを購読して
+# いないので何も起動せず、PAT の疎通（204 が返るか）だけを確認できる。取り込みを手で起こしたい
+# ときは event_type に wfpp-senpai-updated を選ぶ（cephalon-sokoban 側の workflow_dispatch でもよい）。
+
+on:
+  push:
+    branches: [senpai]
+    paths-ignore:
+      - ".github/**"
+  workflow_dispatch:
+    inputs:
+      event_type:
+        description: 送るイベント（ping は疎通確認のみ）
+        type: choice
+        options: [wfpp-senpai-ping, wfpp-senpai-updated]
+        default: wfpp-senpai-ping
+
+permissions: {}
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Send repository_dispatch
+        env:
+          GH_TOKEN: ${{ secrets.SOKOBAN_GEN_TOKEN }}
+          EVENT_TYPE: ${{ inputs.event_type || 'wfpp-senpai-updated' }}
+          SHA: ${{ github.sha }}
+        run: |
+          gh api --method POST repos/synqark/cephalon-sokoban/dispatches \
+            -f "event_type=$EVENT_TYPE" \
+            -f "client_payload[sha]=$SHA"
+          echo "dispatched $EVENT_TYPE for $SHA"
