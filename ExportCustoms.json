@@ -18915,6 +18915,33 @@
         "tradable": false,
         "platinumCost": 45
     },
+    "/Lotus/Upgrades/Skins/Horse/HorseHelmetDrapery": {
+        "name": "/Lotus/Language/Horse/HorseHelmetDraperyName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Horse/HorseHelmetDraperyDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Horse/Helmets/DraperyHorseHelmet.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 60
+    },
+    "/Lotus/Upgrades/Skins/Horse/HorseSaddleDrapery": {
+        "name": "/Lotus/Language/Horse/HorseSaddleDraperyName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Horse/HorseSaddleDraperyDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Horse/Saddles/DraperyHorseSaddle.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 90
+    },
+    "/Lotus/Upgrades/Skins/Horse/HorseTailDrapery": {
+        "name": "/Lotus/Language/Horse/HorseTailDraperyName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Horse/HorseTailDraperyDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Horse/Tails/DraperyHorseTail.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 40
+    },
     "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerA": {
         "name": "/Lotus/Language/Hoverboards/HoverboardStickerA",
         "codexSecret": false,
@@ -28655,11 +28682,110 @@
         "tradable": false,
         "platinumCost": 25
     },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairRBun": {
+        "name": "/Lotus/Language/Cosmetics/HairRBun",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairRBun.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairRBunBraid": {
+        "name": "/Lotus/Language/Cosmetics/HairRBunBraid",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairRBunBraid.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairRPonytail": {
+        "name": "/Lotus/Language/Cosmetics/HairRPonytail",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairRPonytail.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairS": {
+        "name": "/Lotus/Language/Cosmetics/HairS",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairSMed.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairSLong": {
+        "name": "/Lotus/Language/Cosmetics/HairSLong",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairSLong.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairSShort": {
+        "name": "/Lotus/Language/Cosmetics/HairSShort",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairSShort.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairTBraid": {
+        "name": "/Lotus/Language/Cosmetics/HairTBraid",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairTBraid.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairTBun": {
+        "name": "/Lotus/Language/Cosmetics/HairTBun",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairTBun.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairTPonytail": {
+        "name": "/Lotus/Language/Cosmetics/HairTPonytail",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairTPonytail.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
     "/Lotus/Upgrades/Skins/Operator/Hair/HairUOneBraid": {
         "name": "/Lotus/Language/Cosmetics/HairUOneBraid",
         "codexSecret": false,
         "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairUOneBraid.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairUThreeBraid": {
+        "name": "/Lotus/Language/Cosmetics/HairUThreeBraid",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairUThreeBraid.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairUTwoBraid": {
+        "name": "/Lotus/Language/Cosmetics/HairUTwoBraid",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairUTwoBraid.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
         "platinumCost": 25
@@ -28687,6 +28813,60 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairVShort.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairWDreadShortTail": {
+        "name": "/Lotus/Language/Cosmetics/HairWDreadShortTail",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairWDreadShort.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairWDreadTail": {
+        "name": "/Lotus/Language/Cosmetics/HairWDreadTail",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairWDreadLong.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairWFuzzyBall": {
+        "name": "/Lotus/Language/Cosmetics/HairWFuzzyBall",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairWDreadBall.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairXDreadShortTail": {
+        "name": "/Lotus/Language/Cosmetics/HairXDreadShortTail",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairXDreadShort.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairXDreadTail": {
+        "name": "/Lotus/Language/Cosmetics/HairXDreadTail",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairXDreadLong.png",
+        "productCategory": "WeaponSkins",
+        "tradable": false,
+        "platinumCost": 25
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairXFuzzyBall": {
+        "name": "/Lotus/Language/Cosmetics/HairXFuzzyBall",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairXBall.png",
         "productCategory": "WeaponSkins",
         "tradable": false,
         "platinumCost": 25
@@ -53307,32 +53487,5 @@
         "tradable": false,
         "platinumCost": 105,
         "excludeFromMarket": true
-    },
-    "/Lotus/Upgrades/Skins/Horse/HorseHelmetDrapery": {
-        "name": "/Lotus/Language/Horse/HorseHelmetDraperyName",
-        "codexSecret": false,
-        "description": "/Lotus/Language/Horse/HorseHelmetDraperyDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Horse/Helmets/DraperyHorseHelmet.png",
-        "productCategory": "WeaponSkins",
-        "tradable": false,
-        "platinumCost": 60
-    },
-    "/Lotus/Upgrades/Skins/Horse/HorseSaddleDrapery": {
-        "name": "/Lotus/Language/Horse/HorseSaddleDraperyName",
-        "codexSecret": false,
-        "description": "/Lotus/Language/Horse/HorseSaddleDraperyDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Horse/Saddles/DraperyHorseSaddle.png",
-        "productCategory": "WeaponSkins",
-        "tradable": false,
-        "platinumCost": 90
-    },
-    "/Lotus/Upgrades/Skins/Horse/HorseTailDrapery": {
-        "name": "/Lotus/Language/Horse/HorseTailDraperyName",
-        "codexSecret": false,
-        "description": "/Lotus/Language/Horse/HorseTailDraperyDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Horse/Tails/DraperyHorseTail.png",
-        "productCategory": "WeaponSkins",
-        "tradable": false,
-        "platinumCost": 40
     }
 }
